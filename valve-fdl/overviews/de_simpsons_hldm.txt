@@ -1,0 +1,14 @@
+// overview description file for de_simpsons_hldm.bsp
+
+global 
+{
+	ZOOM	1.21
+	ORIGIN	201.00 	-252.00	-464.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_simpsons_hldm.bmp"
+	HEIGHT	-1417.00
+}
