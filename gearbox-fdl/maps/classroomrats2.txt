@@ -1,0 +1,3 @@
+classroomrats2.bsp
+OneSneakYmousE - a rats-scale classroom with desks, bookcases and filecabinets
+this version is an update of the original classroomrats with better textures and flow
