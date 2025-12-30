@@ -1,0 +1,67 @@
+Penguin Park
+a Christmas themed deathmatch experience by DocRock
+
+Map made for the 2016 Game Banana Winter Mapping Contest
+http://gamebanana.com/contests/84
+
+Map information:
+bsp name:	penguin_park.bsp
+skybox name:	black 
+map completed:	Dec 11, 2016
+author:		DocRock
+author email:	docrock10@hotmail.com
+
+Build information:
+original map:	yes
+map based on:	Christmas theme
+
+utilities used:	valve hammer 3.5.2
+		wally
+		PSP 9
+ 		goldwave
+	
+wadincluded:	penguin_snow.wad, cars.wad
+		
+models used:	yes
+
+sounds used:	yes
+
+sprites used:	yes
+
+PC Specs:		Windows 7 Professional
+		Intel(R) Core(TM) i7-3930K
+		3.2 Ghz 
+		16gb memory 64 bit
+		
+Compile Time:	30 mins	
+
+map dedicated to:	babykitkat (always)
+
+beta tester:	my wife, babykitkat
+		
+Special Thanks:	qUiCkSiLvEr for candycane and penguin models
+		3d Mike for cars.wad
+		
+installation:	penguin_park.bsp to valve/maps
+		penguin_park.txt to valve/maps
+		penguin_park.res to valve/maps
+		models to valve/models/penguins
+		sounds to valve/sound/penguins
+		sprites to valve/sprites/penguins
+
+Map notes:	The penguin models and candycane models were previously
+		used in another map of mine called mario_xmas
+	
+		To see the all of the models, it is recommended to have 				mp_allowmonsters 1 activated while playing this level
+
+		To do so, pull down console with the ~ tilde key, type 				mp_allowmonsters 1, press enter, then type changelevel
+		penguin_park and press enter.
+
+
+
+		
+
+
+
+
+
