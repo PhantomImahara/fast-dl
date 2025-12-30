@@ -1,0 +1,75 @@
+December 13, 1998
+
+================================================================
+
+Title                   : Deck16
+Filename                : deck16.bsp
+Author                  : David "Lordface" Bracewell
+Address           	: dwb@idirect.com
+Description             : Halflife DM level for 8-12 players. This
+                          is a convertion of my forvorite Unreal
+                          DM Level.  Generally alot of frags due to
+                          the openness but lots of fun. May lag on
+                          slower systems due to this openness
+Special Thanks to       : Valve for creating Halflife, Epic for
+                          creating Unreal and ID for starting it all.
+Webpage                 : N/A
+
+================================================================
+
+Play Information
+
+Single Player           : No
+Deathmatch              : Yes
+Cooperative             : No
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+================================================================
+
+Construction
+
+Base                    : New Level from scratch (based on Unreal DMDeck16)
+Editor used             : Worldcraft v2.0
+Known Bugs              : Minor Texture and wall alimement
+                          nothing major that i know of 
+Build Time              : Qcsg 15 secs., Qbsp 20 secs., 
+                          Vis 3379 secs, Qrad 350 secs.
+                          Total = 3,764 or 62.7 min.
+
+================================================================
+
+
+Installation
+
+To play this level, extract the file "deck16.bsp" into
+your sierra\half-life\valve\maps directory and then start the game.
+Start a deathmatch server and type "map deck16" or "changelevel
+deck16" in the console. To test it out in single player mode
+start Halflife with hl.exe -console -toconsole -dev. This enables
+you to try some stuff using the cheat codes (no Hazard Suit though)
+
+================================================================
+
+Copyright and Permissions
+
+If you enjoy playing this level, please send me an e-mail or if
+you would like the map file or find bugs :)
+
+This level may be distributed via any medium (ie: Internet,
+BBS, CD-ROM, compilation disk) as long as it maintains the
+name deck16.bsp and is supplied in a zip file called deck16.zipP 
+that also contains this text document and no other files.
+
+If the level is to be included on a CD-ROM or other profit-
+making medium, including but not limited to "Public Domain"
+collections or archives, the publisher / manufacturer must
+send me a copy of the product.
+
+I reserve the right to refuse permission for this level to
+be distributed via any CD-ROM or other profit-making medium.
+
+(c) Copyright 1998 David "Lordface" Bracewell
