@@ -1,0 +1,14 @@
+dm_industrial.wad
+gfx/env/morningdewbk.tga
+gfx/env/morningdewdn.tga
+gfx/env/morningdewft.tga
+gfx/env/morningdewlf.tga
+gfx/env/morningdewrt.tga
+gfx/env/morningdewup.tga
+models/dolina.mdl
+sound/_Loopers/BaseDrips2.wav
+sound/_Loopers/Dead_city1.wav
+sound/_Loopers/fieldwind.wav
+sound/_Loopers/Industrial1.wav
+sound/_Loopers/lamp.wav
+sound/_Loopers/tunnel.wav

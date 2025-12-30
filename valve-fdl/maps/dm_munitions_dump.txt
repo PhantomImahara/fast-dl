@@ -1,0 +1,12 @@
+===========================
+Map:  dm_munitions_dump
+Game: Half-Life
+Type: deathmatch
+Size: middle
+===========================
+Author: Maxwel
+Contact: maxwel@ukr.net
+===========================
+
+Information:
+ Extract this archive to Half-Life directory (ex. "c:\Games\Half-Life").
