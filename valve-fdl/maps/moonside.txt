@@ -1,0 +1,54 @@
+=====================================================================
+   Half-Life Map Spec Sheet
+=====================================================================
+------General Information--------------------------------------------
+
+Title		:Moonside
+Filename	:moonside.bsp
+Author		:Andrew Fischer
+Email address	:fischer6295@yahoo.com	
+Description	:Based on Moonside from the game Earthbound, everything about this map is completely unorthodox and bizarre.
+The best description is that moonside is totally without light in the usual sense and equally without limits to connectivity.  You can get anywhere from anywhere pretty quickly even though the map is in a very large space.  You'll do good to snipe, although there's nowhere to camp easily or permanently due to the lack of shadows.  The Egon is here, but it'll take some work to get to (involving the tau).  There are about 20 teleporters in this map and there should be enough guns and ammo around for as many as you can pack in it, although server admins should keep in mind that ALOT of the map is visible from the outside and most of the action is going to take place there.  
+
+Previous Maps	:Marble Garden, Hacienda, Forgotten Capital, and others
+
+------Credits and Thanks---------------------------------------------
+Thanks to you for downloading this map and having the guts to try and frag on it.
+
+------Play Information-----------------------------------------------
+
+Deathmatch	:yes	
+Single Player	:no
+Map Description	:One large outdoor area surrounded by buildings with many teleports.
+How Many Players:4-24
+
+------Map Information------------------------------------------------
+
+New Textures	:Yes, made by myself (except the picasso, van gogh, and dali paintings
+ in the museum area obviously) and included in bsp
+New Sounds	:Yes
+
+------Construction---------------------------------------------------
+
+Base		:
+Editor(s) used	:WC 3.3
+Compiler	:Toolbox w/ Zoner's Tools 2.5.3
+Compile Machine :P3 Celeron (ugh) 766, 256mb, Win98 
+Compile time	:40 minutes
+
+------Map Instructions-----------------------------------------------
+
+Unzip the files in this archive.  Place the map, "moonside.bsp" in
+your half-life/valve/maps directory.  Place the sounds in the half-life/valve/sound/ambience directory.  
+
+------Copyright-Permissions------------------------------------------
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.

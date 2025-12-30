@@ -1,0 +1,9 @@
+gfx/env/mpa12_csbk.tga
+gfx/env/mpa12_csdn.tga
+gfx/env/mpa12_csft.tga
+gfx/env/mpa12_cslf.tga
+gfx/env/mpa12_csrt.tga
+gfx/env/mpa12_csup.tga
+sound/moab_compo27/ambient_indoor1.wav
+sound/moab_compo27/ambient_outside1.wav
+sound/moab_compo27/ambient_wind1.wav
