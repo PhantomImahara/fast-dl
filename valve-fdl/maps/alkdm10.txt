@@ -1,0 +1,74 @@
+05.04.01
+
+================================================================
+Title                   : Impaled
+BSP Name                : alkdm10.bsp
+Author                  : Shaun [Kona] Ross 
+Release Date            : April 2000
+Email Address           : Alkali@ihug.co.nz
+Home Page               : Ethereal Hell: SP Map Reviews
+			  http://ethereal-hell.telefragged.com
+			
+Map Description         : A unique colourful industrial structure using textures from Sin. Mixtures of charcoal coloured steel, tanned and wooden panels with metal trim, broken up by pale layers of concrete under a bright white moon. It's quite an open fast map that supports about 5 players best.
+
+Other Info		: 
+For more fun on this map, try the Quake3 Capture the Flag version. It works great with 4-8 players and looks even better.
+
+Other maps by Author	: Single Player:
+			  Feb 01 - Machine Reborn (Q2SP)
+			  Jan 01 - ChantHood (Q1SP/Q1DM)
+			  Jun 00 - Egyptian Myth (Q1SP)
+			  Apr 00 - Mel Soaring 5: Ancient Rigby (Q2SP)
+			  Feb 00 - Mel Soaring 4: The Savage Sanguine (Q1SP)
+			  Dec 99 - Mel Soaring 3: Tomb of the Makron God (Q2SP)
+			  Oct 99 - Mel Soaring 2: Star Rancor (HLSP)
+			  Sep 99 - Mel Soaring 1: Hear Me Roar (Q2SP)
+			  Mid 98 - The Alkado Adventure (Q1SP PC)
+
+			  Deathmatch:
+			  Feb 01 - Early Settlers (Q3DM)
+			  Dec 00 - Sinda Legend (Q3DM)
+			  Sep 00 - Until The End Of Time (Q3DM)
+			  Oct 00 - Devonaire (Q3DM)
+			  Dec 00 - GrindMill (Q3DM)
+			  Jul 00 - The Devil Deranged (Q3DM)
+			  May 00 - Evergem (Q1DM)
+			  Apr 00 - Tusk and Bone (Q3DM)
+			  Feb 00 - Ravages of Sanguine (Q1DM)
+			  Dec 99 - On A Dreary Night (Q2DM)
+
+Additional Thanks to    : Sin by Ritual, for the textures
+
+================================================================
+
+* Installation *
+
+Unzip the files to your Half-Life directory, they will automatically end up in the right places
+A Jumbot waypoint file (JRF) is also included.
+
+* Play Information *
+
+Deathmatch		: 3-8 FFA
+Bot File (Jumbot)     	: Yes
+  
+* MAP Information *
+
+Solids			: 642
+Faces			: 3745
+Point entities		: 153
+Solid entities		: 0
+New Textures            : Yes
+New Enemies/Sounds      : No
+New Weapons/Quakec	: No
+
+* Construction *
+
+Base                    : From scratch
+Machine 	        : P3 450mhz, 128mb RAM, Riva TNT2
+Editor used             : Worldcraft3
+
+* Copyright / Permissions *
+
+You may NOT use this level as a base to build additional levels!
+You may distribute this BSP in any electronic format (BBS, Internet,
+PC/Game Mag cover-CD, etc) but you MUST inform me before you do this.

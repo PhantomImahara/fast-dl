@@ -1,0 +1,51 @@
+================================================================
+Date                    : June 29, 2001
+Title                   : Adrenaline Raucous
+Filename                : adrenalineraucous.zip
+Author                  : Alex (Alcrifice) Fundora
+Email Address           : alcrifice@aol.com
+Home Page               : 
+
+Map Description         : Here is a map i put a lot of effort in the design. there are a lot of detailed
+                          areas to make the level look unique. it has a circular shape to it.
+
+                           
+Other Works by Author   : Many Q3 and HL testings
+
+Misc Author Info        : I woul like to present everyone for my one and only hope project. ive 
+stuck with the same graphics card for a couple of years and when i saw this contest i got extremely 
+excited. I gave it all my effort by working over 12 hours a day.  This is my only chance for a new
+pgrade to my comp for a long time. So i hope i did a good job :)
+
+
+================================================================
+
+== Play Information ==
+
+Single Player           : no
+Cooperative             : no
+Deathmatch              : yes
+
+
+== Construction ==
+Base                    : 
+Editor(s) used          : Worlcraft 3.3
+
+
+== Additional Credits to ==
+visiontek for giving me this great opportunity
+
+                          
+== Installation Info ==
+Unzip into the half-life\valve\maps directory. 
+
+
+
+==Copyright / Permissions==
+Authors MAY NOT use this level as a base to build additional levels.
+
+This map may be distributed ONLY on a "not for profit" basis using any medium.
+
+This template is available from www.globalassault.com
+
+
