@@ -1,0 +1,75 @@
+=====================================================================
+   Half-Life Map Spec Sheet
+=====================================================================
+------General Information--------------------------------------------
+
+Title		: Schak's Breakdown
+Filename	: Breakdown.bsp
+Author		: Marco Wengle
+Author Email	: marco.wengle@bluewin.ch
+Previous Maps	: none
+
+
+
+------Additional Info, Tips, and Notes-------------------------------
+
+Just that you are warned: I'm beginer in English so don't tell my that 
+I can't write English!
+
+This is my first map and I used no prefabs!
+
+This map has high r_speeds. It is not the fastet map.
+I have testet the map on the following PC's:
+					     PII 450 Voodoo3 128 MB SDRAM
+					     PII 400 Voodoo2  64 MB SDRAM
+					     PII 333 Voodoo2  64 MB SDRAM
+					     PII 266 Voodoo2  64 MB SDRAM
+					     PII 233 Voodoo2  64 MB SDRAM
+On the 233: unplayable
+On the 266: not the best result
+On the 333: good playable
+On the 400: super playable 
+On the 450: no comment :)
+
+The highest epoly was 4300
+The highest wpoly was 1100
+
+------Play Information-----------------------------------------------
+
+Deathmatch	: Of course
+Single Player	: What is that? :)
+
+This map is good for 4 Players. It has startpositions for 6.
+
+------Map Information------------------------------------------------
+
+New Textures	: sorry
+New Sounds	: no
+
+------Construction---------------------------------------------------
+
+Editor(s) used	: Worldcraft 2.1 Beta
+Compile Machine	: PII 450 Voodoo3 128 MB SDRAM
+Compile time	: about 1700 sek.
+Playtest time	: I tested this map in LAN games over 8 houres.
+
+------Map Instructions-----------------------------------------------
+
+Unzip the files in this archive.  Place the map, "BREAKDOWN.bsp" in
+your half-life/valve/maps directory.  If there are any .wad files in
+this zip, place them in the half-life/valve directory.
+
+------Copyright-Permissions------------------------------------------
+
+Oh shit.... i know that you know this! Or not? Ok, here are they:
+
+- DO NOT MODIFICATE MY MAP!!!!!!
+- DO NOT DELETE THIS README.TXT!!!!!!
+- THIS IS A TEMPLATE.TXT FROM RADIUM (IT IS ON THEIR HOMEPAGE)!!!!! (THX RADIUM)
+- DO NOT INCLUDE THIS MAP IN A MAPSAMPLER OR SOMETHING LIKE THAT AND SELL IT!!!!!!!
+
+
+Thank you for read this all!
+
+
+By the way: if you have for me good tips how i can hold r_speeds down mail me!!!!!
