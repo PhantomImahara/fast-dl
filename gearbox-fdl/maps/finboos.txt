@@ -1,0 +1,95 @@
+1.5.1999 SUOMI FINLAND
+JUSSI TURKKA
+
+
+
+         
+==============-PLEASE READ THIS FIRST-=========================
+
+
+ONLY if you use SOFTWARE VIDEO OPTION READ THIS...
+if you use 3dFX or other...no problem
+--BUG---
+--BUG---
+--BUG--- 
+
+damn... i found a bug in my map...all skyes and some walls
+are just black...(i hate my english sorry) if you play software
+yes i can change some option in the map and then i have to run all
+tools again... and vis running just 5 hours...too long..
+
+and i am making it.. BUT please use 3dFX or some other 3d render card
+
+
+ONLY if YOU hate SHADOWS/LOVE shadows....
+use your gamma option to change light detail...little bit...
+first i make day map..and lots light..but my friends ask me to
+change it all night THEME....1vs5...too much for mee and i make it
+
+and i think all its better now...
+
+
+---WEAPONS---
+some weapons are just hide in the shadows ..but you can find them easy
+
+suomalaiset kent‰n teki‰t
+
+sendik‰‰ mulle messagee mailiin .... haluaisin tiet‰‰ suunnilleen
+montako meit‰ on radiumissa
+
+
+
+
+================================================================
+
+Title                   : Finland booster
+Filename                : FINboos.bsp
+Author                  : Jussi Turkka
+Description             : hide in the shadows..I love NIGHT THEME
+			  
+e-mail			: pojat.turkka@pp.inet.fi
+================================================================
+
+Play Information
+
+Single Player           : No
+Deathmatch              : Yes (2-10 players)
+Cooperative             : No
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+================================================================
+
+Construction
+
+
+Editor used             : Worldcraft v2.0
+Build Time              : 22 hours
+
+================================================================
+
+Installation
+
+To play this level, extract the file "FINboos.bsp" into
+your sierra\half-life\valve\maps directory and then start the game.
+Start a deathmatch server and type "map FINboos" or "changelevel
+FINboos" in the console. 
+
+================================================================
+
+Copyright and Permissions
+
+This level may be distributed via any medium (ie: Internet,
+BBS, CD-ROM, compilation disk) as long as it maintains the
+name FINboos.BSP and is supplied in a zip file called FINboos.ZIP 
+that also contains this text document and no other files.
+
+If you really want to change this map for some way...just mail me
+and we can talk to it....
+if you have some kind of hopes for levels...i am ready to make them if
+you thing so......
+
+(c) Copyright 1999 Jussi Turkka (SUOMI..finland)
