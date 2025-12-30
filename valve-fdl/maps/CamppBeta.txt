@@ -1,0 +1,69 @@
+=====================================================================
+   Half-Life Map Spec Sheet
+=====================================================================
+------General Information--------------------------------------------
+
+Title		: Camppoint Beta
+Filename	: CamppBeta.bsp
+Author		: Green_MDF
+Author Email	: Green_MDF@yahoo.com
+Home page	: go.to/WDFU
+Description	: Half-life clan page with editing stuff too.
+Previous Maps	: Warbunkers, Warzone 01, Stairceez.
+
+------Credits and Thanks---------------------------------------------
+Thanx to all my buddies at WDFU (HL Clan), my mom, all of the 4 Horse
+Men, My buddy Howling Mad Unidentified, SilverChair (for playing their
+kickass music when I was incredibly down), my PC (:-)) and everyone who
+is not listed here but who know they're my friends. LUV U!
+And NOT to forget: Valve for making Half-Life for what it is!!!
+
+------Additional Info, Tips, and Notes-------------------------------
+This level is cool for TeamPlay HL and it's also compatible with Death
+match. Allthough I don't recommend DM for this level. Check out the 
+secret entrences in the 2 camps. And blow eachothers brains out!
+
+
+------Play Information-----------------------------------------------
+
+Deathmatch	: Yes
+Single Player	: No
+Map Description	: Two camps, Two teams who can bang eachothers brains out!
+How Many Players: 6 players max
+
+------Map Information------------------------------------------------
+
+New Textures	: No
+New Sounds	: No
+
+------Construction---------------------------------------------------
+
+Base		: One big block filled with kickass stuff.
+Editor(s) used	: Quark 5.9, Quark 5.10
+Compile Machine	: PIII 450, 64 MB ram, 40X cd rom, Voodoo2.
+Compile time	: Aprox. 10 min
+Playtest time	: 
+
+------Map Instructions-----------------------------------------------
+
+Unzip the files in this archive.  Place the map, "Camppbeta.bsp" in
+your half-life/valve/maps directory.  If there are any .wad files in
+this zip, place them in the half-life/valve directory.
+
+------Copyright-Permissions------------------------------------------
+
+This template is available at The radium Half-Life Map Center...
+http://www.planethalflife.com/radium
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+
+But send me an e-mail if you like this level!!!!!!!!!!!!!!!! Also, when
+this level is put on cd, also send an email to me and a copy!! ;-)
