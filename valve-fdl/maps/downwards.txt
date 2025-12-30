@@ -1,0 +1,32 @@
+---General Information---
+Title 				downwards
+Filename			downwards.bsp
+Author				Mikko Heikkinen
+Other lvls by author		
+Email address 			kemmn@jippii.fi
+Additional Credits to   
+
+---Play Information------
+Map Description			Small level with lots of weapons and ammo.
+Recommended # of Players:       6 I wouldn't play more than 12 on this one.
+
+---Map Information-------
+New Textures                     no
+New Sounds		         no
+
+---Construction----------
+Base				Fresh start
+Editor(s) used          	Worldcraft 3.3
+Compile Machine		        466mhz PII Celeron w/128 megs of ram
+Compile time			5 days
+
+---Additional Info-------
+---Copyright-Permissions--------------------------------------------
+Authors MAY NOT use this level as a base to build additional levels. 
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
