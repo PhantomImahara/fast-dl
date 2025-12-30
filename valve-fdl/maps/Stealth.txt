@@ -1,0 +1,35 @@
+June 1, 1999
+-----------------------------------------------------------------------
+
+Title : Stealth
+
+Filename : Stealth.map
+
+ICQ:  24871342
+
+Author : Razor
+
+Email Address : Razor@claramail.com
+      
+Description :	Stealth is an open map but lots of dark corners to hide in and a push pod to get to them.  A snipers map.
+-----------------------------------------------------------------------
+
+Construction
+
+Editor used: Worldcraft 2.0
+Build Time: 7 hours 30 minutes
+Textures used: halflife.wad
+Players: 6-8
+Bugs: Let me know
+Testers:  Dave Waters (Homer), [CB]Snuffsaid, [UK]Adder, Sniper, Burmance, Darkone, Woof and a vast array of others that I simply cannot remember (sorry guys, this is your map too).
+
+-----------------------------------------------------------------------
+
+Copyright / Permissions
+
+This .bsp file may be distributed free of charge to anyone, but cannot
+be used on any commercial CD or Disk without my permission.
+
+-----------------------------------------------------------------------
+© Copyright 1999 Razor
+-----------------------------------------------------------------------
