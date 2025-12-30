@@ -1,0 +1,62 @@
+=====================================================================
+   Half-Life Map Spec Sheet
+=====================================================================
+------General Information--------------------------------------------
+
+Title           :Euchred
+Author          :Locknut		
+Author Email    :Locknut@netscape.net	
+Date            :1111/99
+Home page       :HTTP://Lightning.prohosting.com/~lock1/
+Description     : Casa Del Locknut -My hole in the wall webpage. 
+Previous Maps   :Substorage 
+	http://www.planethalflife.com/radium/reviews/substor.shtml
+
+------Credits and Thanks---------------------------------------------
+Valve Software: For making a kick ass game   www.valve.com
+Alan Yen:  Base textures   http://www.planetquake.com/qgallery/
+The Stand Mod team: Base textures    http://www.planetquake.com/stand/
+My brother: For helping me playtest
+
+
+------Play Information-----------------------------------------------
+
+Deathmatch      : Yep	
+Single Player   : Only to look around
+Map Description :Medium-Small map with a fairly tight layout, but plenty of open areas to make effective use of the RPG.
+	Designed with Lan play in mind, but r_speeds are low enough for modem play
+
+How Many Players: 2-8
+
+------Map Information------------------------------------------------
+
+New Textures    :Yes, included in the bsp, so no need for a seperate wad file
+New Sounds      :Nope
+
+------Construction---------------------------------------------------
+
+Base            : All original (Took about 20 hours of work, not counting the custom textures)
+Editor(s) used  :Worldcraft 2.1	
+Compile Machine : P3 450 w/256MB ram
+Compile time    : about four minutes 
+Playtest time   :+10 hours
+
+------Map Instructions-----------------------------------------------
+
+Unzip the files in this archive.  Place the map in
+your SIERRA/half-life/valve/maps directory.  If there are any .wad files in
+this zip, place them in the half-life/valve directory.
+Extract the route file to the SIERRA\Half-Life\Jumbot\wpfiles folder.
+
+------Copyright-Permissions------------------------------------------
+
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.

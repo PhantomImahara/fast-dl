@@ -1,0 +1,44 @@
+A Halflife Deathmatch
+
+Title                   : "High Rocky Mayhem"
+Filename                : hrmayhem.bsp
+Author                  : Beefster
+Description             : High within the rocky cliffs, rests the test
+			  of speed and survival.  A playground of death
+			  and beef chunks awaits.  Think you're up to it.
+ 			  Sign up and say goodbye.  All exits are blocked
+		   	  and the bloodshed has just begun.
+Thanks to		: Matt, Dan, and Troy for play-testing.
+Special Thanks to       : Valve for creating Halflife 
+e-mail			: sjthoma@gtemail.net
+
+
+Play Information
+
+Single Player           : No
+Deathmatch              : Yes (4-6) 
+Cooperative             : No
+
+Construction
+
+Editor used             : Worldcraft v2.1
+Known Bugs              : Didn't find any
+
+================================================================
+
+Installation
+
+To play this level, extract the file "hrmayhem.BSP" into
+your sierra\half-life\valve\maps directory and then start the game.
+Start a deathmatch server and type "map hrmayhem" in the console. 
+
+================================================================
+
+Copyright and Permissions
+
+This level may be distributed via any medium (ie: Internet,
+BBS, CD-ROM, compilation disk) as long as it maintains the
+name hrmayhem.BSP and is supplied in a zip file called hrmayhem.ZIP 
+that also contains this text document and no other files.
+
+
