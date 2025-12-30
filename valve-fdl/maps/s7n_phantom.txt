@@ -1,0 +1,80 @@
+==========================================================
+Title		:PHANTOM
+Release Date	:JULY 7, 2001
+Filename	:S7N_PHANTOM
+Filesize(zipped):1978KB
+Author(s)	:SE7EN AND EYEVEN
+Email Address	:gumaro7@home.com, http://www.angelfire.com/va3/HODClan/
+Description	:DM FUTURISTIC\ANTI-GRAVITY              
+==========================================================
+---Play Information---
+Game		:Half-Life
+Game Mode	:DM
+Players		:3-5
+Known Bugs	:There is some lag in two areas.
+
+---Construction---
+Editor Used		:Worldcraft 3.3
+Compile Machine		:400mhz pentiumII 192RAM 	
+Construction Time	:5 nights 
+			 
+---Notes---
+This map is based on a map from Unreal Tournament (which is
+one of my favorites). I wanted to do something different and fun. 
+Basically, you're out in the middle of space, on a destroyer ship that 
+has fighter jets protecting it. Inside the Phantom gravity is normal. 
+Once you step out, theres less gravity. The stronger weapons are either 
+harder to get or in a place where you'll have to use another weapon to 
+get to them. There are no secrets. It takes strategy and wisdom to 
+be able to completely dominate on this map.           
+
+E-mail me with any comments on the level, praise or criticism.
+Any feedback is much appreciated. My next map is soon to be released.
+
+---Special thanks---
+First of all, I want to thank my brother Ivan aka EYEVEN and my 
+friends Marq aka NIMROD and VENGEANCE for helping me. My brother 
+re-aligned all of my textures and did an outstanding job and Marq took 
+the time to play test my map. I would like to give a great deal of 
+gratitude to VENGEANCE "http://vhoh.tripod.com/" for taking the time 
+to help me out with all of my questions and problems. I also want to 
+thank UT for the beautiful textures and Vlas for the excellent sky map. 
+I want to thank my wife for her support and encouragement. And most of 
+all, I want to thank Sierra for producing such an awesome game, HL.
+
+---Installation---
+Place the:
+
+.bsp in your \maps folder
+
+.wad in your \valve folder
+
+sky map (everything else that has the name "stars_") in your \valve\gfx\env folder.
+
+Note that I am still a rookie. Therefore, I do not know how to use hlcc and 
+its settings to include the .wad file and the sky map in a .res file to make 
+it an easier installation. If any one knows how, can you give me an email? 
+All help is greatly appreciated.  
+   
+================================================================
+
+Copyright and Permissions
+
+
+This level may be distributed via any medium (ie: Internet,
+BBS, CD-ROM, compilation disk) as long as it maintains the
+name MAPNAME.bsp and is supplied in a zip file called 
+MAPNAME.zip that also contains this text document and 
+no other files.
+
+If the level is to be included on a CD-ROM or other profit-
+making medium, including but not limited to "Public Domain"
+collections or archives, the publisher / manufacturer must
+send me a copy of the product.
+
+I reserve the right to refuse permission for this level to
+be distributed via any CD-ROM or other profit-making medium.
+
+(c) Copyright 2001 Gumaro Ruiz
+
+===============================================================

@@ -1,0 +1,109 @@
+
+-------------------------------------------------------------------------
+Reapers Requiem
+
+This is a sequel to Reapers Revenge.
+
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+* Play Information *
+Title 			: Reapers Requiem
+Filename		: reapers_requiem.bsp
+Author			: [DRS]DoomDog aka Marty Rapp - Anchorage, ALASKA
+Other lvls by author	: reapers_revenge, morality, vx800, drs_unity9, freewill, op4_freewill, galileo, laserseti
+Email address 		: mrapp@gci.net
+Home page		: http://www.mrapps.com http://24.237.6.87/maps.htm
+Description		: Deathmatch map for Half-Life.  This map is an inside, eerie or
+			: "hellish" atmosphere of about medium/large size.  I think it will
+			: easily handle 12 or more players.
+Size			: medium/large
+Additional Credits to   : [DRS]Reaper, [DRS]Misery, [DRS]Aenima, [DRS]Mustang, 
+			:	[DRS]Major Malfunction.
+			: David Ottvall for the AWESOME textures in hellish.wad
+			:  David Ottvall can be reached at: davo@algonet.se
+			:  DavO's Web gallery: http://www.algonet.se/~davo/
+			:  DavO's levels and textures: 
+			: 		http://www.algonet.se/~davo/levels/index.htm
+			: sean@dpsoft.com for Sean's Texture Pack #1
+			: Wadfather at http://www.halflife.lowlife.com/wadfather/ for
+			:  providing these textures on his website
+Single Player           : no
+Cooperative Player      : no
+Deathmatch Player       : yes
+CTF2			: no
+Difficulty Settings     : no
+New Textures            : yes
+CD Track                : no
+
+-------------------------------------------------------------------------
+
+* Installation *
+
+Put the file reapers_requiem.bsp in your half-life/valve/maps folder. 
+
+------------------------------------------------------------------------
+
+* Tips & Notes *
+
+There are numerous secrets contained in this map.
+
+Weapon/Ammo Count:
+3 ammo_357
+9 ammo_9mmAR
+1 ammo_9mmbox
+2 ammo_9mmClip
+9 ARGrenades(x2)
+3 ammo_Buckshot
+2 ammo_Crossbow
+5 ammo_Gaussclip
+3 ammo_RPGClip
+3 weapon_357
+6 weapon_9mmAR
+2 weapon_Crossbow
+1 weapon_Egon
+1 weapon_Gauss
+3 weapon_Handgrenades
+1 weapon_Hornetgun
+1 weapon_RPG
+5 weapon_Shotguns
+2 weapon_Snarks
+6 weapon_Tripmines
+4 weapon_Satchel
+
+There are 10 info_player_deathmatch entities, 14 item_battery entities, 
+14 item_healthkit entities, 0 battery rechargers, 0 health rechargers,
+and 1 item_long_jump entity.
+
+------------------------------------------------------------------------
+
+* Construction *
+
+Base			: new Level from scratch
+Editor(s) used          : Worldcraft 3.3
+Editing time		: 21 days
+Compile Machine		: Pentium II 450MHz 128k Ram
+Compile time		: just over an hour
+
+-------------------------------------------------------------------------
+
+* Additional Information *
+
+Most of all, Extra Special Thanks goes to [DRS]Reaper, for without her there
+would be no reapers_revenge!!!
+
+Hope at least one person who plays this map likes it, if so, then
+it will be worth it!
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+
+DoomDog 03/18/2001

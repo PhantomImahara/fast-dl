@@ -1,0 +1,110 @@
+-------------------------------------------------------------------------
+
+* Play Information *
+Title 			: Reapers Revenge
+Filename		: reapers_revenge.bsp
+Author			: [DRS]DoomDog - Anchorage, ALASKA
+Other lvls by author	: morality, vx800, drs_unity9, freewill, op4_freewill, galileo
+Email address 		: mrapp@gci.net
+Home page		: http://www.mrapps.com http://24.237.6.87/maps.htm
+Description		: Deathmatch map for Half-Life.  This map is an inside, eerie or
+			: "hellish" atmosphere of about medium size.  I think it will
+			: easily handle 8 or more players.
+Size			: medium
+Additional Credits to   : [DRS]Reaper, [DRS]Orpheus, [DRS]Zeddicus, [DRS]AeNiMa
+			: David Ottvall for the AWESOME textures in hellish.wad
+			:  David Ottvall can be reached at: davo@algonet.se
+			:  DavO's Web gallery: http://www.algonet.se/~davo/
+			:  DavO's levels and textures: 
+			: 		http://www.algonet.se/~davo/levels/index.htm
+			: sean@dpsoft.com for Sean's Texture Pack #1
+			: Wadfather at http://www.halflife.lowlife.com/wadfather/ for
+			:  providing these textures on his website
+Single Player           : no
+Cooperative Player      : no
+Deathmatch Player       : yes
+CTF2			: no
+Difficulty Settings     : no
+New Textures            : no
+CD Track                : no
+
+-------------------------------------------------------------------------
+
+* Installation *
+
+Put the file reapers_revenge.bsp in your half-life/valve/maps folder. 
+
+------------------------------------------------------------------------
+
+* Tips & Notes *
+
+If you want the gluon or the tau guns, you have to pay for them
+in some of your life!
+
+Weapon/Ammo Count:
+3 ammo_357
+6 ammo_9mmAR
+3 ammo_9mmClip
+5 ARGrenades(x2)
+4 ammo_Buckshot
+5 ammo_Crossbow
+5 ammo_Gaussclip
+4 ammo_RPGClip
+2 weapon_357
+4 weapon_9mmAR
+2 weapon_Crossbow
+1 weapon_Egon
+1 weapon_Gauss
+4 weapon_Handgrenades
+1 weapon_Hornetgun
+1 weapon_RPG
+4 weapon_Shotguns
+2 weapon_Snarks
+4 weapon_Tripmines
+
+There are 8 info_player_deathmatch entities, 10 item_battery entities, 
+10 item_healthkit entities, and 1 item_long_jump entity.
+
+There is one secret area (not referring to the room with the snarks).
+
+------------------------------------------------------------------------
+
+* Construction *
+
+Base			: new Level from scratch
+Editor(s) used          : Worldcraft 3.3
+Editing time		: 2 weeks
+Compile Machine		: Pentium II 450MHz 128k Ram
+Compile time		: over an hour
+
+-------------------------------------------------------------------------
+
+* Additional Information *
+
+Special thanks to [DRS]AeNiMa for running a test server with this map
+and for his suggestions.
+Special thanks to [DRS]Orpheus for his review, suggestions and encouragement. 
+Special thanks to [DRS]Zeddicus for his review and suggestions.
+Special thanks to David Ottvall, Sean ?, and the Wadfather 
+for the cool textures I used.  I sure get tired of the normal halflife textures!
+
+Most of all, Extra Special Thanks goes to [DRS]Reaper, for without her there
+would be no reapers_revenge!!!
+
+Hope at least one person who plays this map likes it, if so, then
+it will be worth it!
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+
+DoomDog 08/19/2000
+

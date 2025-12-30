@@ -1,0 +1,62 @@
+++++General Information+++++++++++++++++++++++++++++++++
+
+Title			: Revival
+Filename		: revival.bsp
+Author		: Daniel "DrLambda" Wünsche
+Email 		: Dr.Lambda@gmx.de
+Description		: Multi-player Deathmatch
+# of Players 	: 2 - 8
+
+
+++++Mapography++++++++++++++++++++++++++++++++++++++
+
+2008 	/	revival			(HLDM)
+2003	/	lunatic			(HLDM, winner THW Contest)
+2002 	/	cs_rage			(CS)
+2002	/	xx_spam			(CS)
+2002	/	de_newyear			(CS)
+2001 	/	drl09_golgotha 		(HLDM)
+2000	/	drl08_yavimaya 		(HLDM)
+2000	/	drl07_bleed 		(HLDM)
+2000	/	drl06_gomorra 		(HLDM)
+1999	/	drl05_hallway 		(HLDM)
+1999	/	drl04_mainstream 		(HLDM)
+1999	/	drl03_birthright 		(HLDM)
+1999	/	drl02_kingandcastle 	(HLDM)
+1999	/	drl01_basewars 		(HLDM)
+
+	
+
+++++Play Information+++++++++++++++++++++++++++++++++++++++
+
+Deathmatch		: Yes
+Single Player	: Test and Debugging
+
+++++Map Information+++++++++++++++++++++++++++++++++++++
+
+New Textures	: None
+New Sounds		: None
+
+++++Construction++++++++++++++++++++++++++++++++++++++++++
+
+Base			: From scratch
+Editor(s) used	: WorldCraft 3.5
+Compile Machine	: AMD Athlon XP 2200+, 1024 MB RAM
+Compile time	: 5 min.
+
+++Map Instructions+++++++++++++++++++++++++++++++++++++++++
+
+Extract the contents of the .zip archive into your Half-Life\valve\maps directory.
+
+++Additional Info++++++++++++++++++++++++++++++++++++++++++++
+
+Thanks to Valve for bringing us Half-Life.
+
+This is my first map after a break of about five years. I just wanted to see if i can still wield the brushes. I didn't really follow any plan, and i don't think it's even close to my best maps from a visual perspective, but i think it's a blast to play. 
+r_speeds don't exceed 750 (at the Gluon/Egon)
+
+++++Copyright-Permissions++++++++++++++++++++++++++++++++++
+
+This UNMODIFIED file MUST accompany the BSP in any form of distribution. 
+
+These files may be distributed freely. Drop me an email and tell me if you like the map!! 
