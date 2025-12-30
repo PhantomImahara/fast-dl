@@ -1,0 +1,294 @@
+================================================================================
+* LEVEL INFORMATION *
+--------------------------------------------------------------------------------
+TITLE                   : FALLEN
+FILENAME                : fallen.zip
+.zip CONTENTS           : fallen.bsp
+AUTHOR                  : [M.O.D]DuHaSt aka [Fm]Reboot
+e-Mail                  : MOD_Duhast@Hotmail.com
+HOMEPAGE                : www.fragdom.com
+DATE                    : 09/08/2001
+GAME PLAY TYPE          : DeathMatch
+--------------------------------------------------------------------------------
+* LEVEL DESCRIPTION *
+--------------------------------------------------------------------------------
+Military base that fell in battle long ago and forgotten......until now.
+--------------------------------------------------------------------------------
+SINGLE PLAYER           : 01 Player Respawn Points
+CO-OPERATIVE            : 01 Player Respawn Points
+DEATHMATCH              : 12 Player Respawn Points
+SUGGESTED PLAYER LOAD   : 1 to 12
+DIFFICULTY SETTINGS ?   : N/A
+NEW TEXTURES ?          : No
+NEW SOUNDS ?            : No
+CD TRACK #              : 0
+--------------------------------------------------------------------------------
+* CONSTRUCTION *
+--------------------------------------------------------------------------------
+BASE MAP USED ?         : "GHOST" by: [M.O.D]Sandman
+PREFABS USED ?          : ONE DESK
+EDITORS USED            :  WorldCraft 3.3 ,
+UTILITIES USED          : Batch Compiler as the GUI for compiling
+KNOWN BUGS              : None
+                          
+COMPILE MACHINE         : 566 mHz Celeron 192 meg Ram TNT2 Vid card
+QBSP2                   : 21.42  Seconds
+VIS                     : 3818.31 Seconds
+QRAD                    : 2148.24 Seconds
+--------------------------------------------------------------------------------
+* COMPILE LOG *
+--------------------------------------------------------------------------------
+hlcsg v2.5.3 rel (May  2 2001)
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (zoner@gearboxsoftware.com)
+-----  BEGIN  hlcsg -----
+Command line: C:\PROGRA~1\WORLDC~1\ZONERS3\HLCSG.EXE -wadinclude cstrike.WAD -wadinclude ghost.wad -estimate "C:\Program Files\Worldcraft\maps\fallen.map"
+
+-= Current hlcsg Settings =-
+Name                 |  Setting  |  Default
+---------------------|-----------|-------------------------
+threads               [       1 ] [  Varies ]
+verbose               [     off ] [     off ]
+log                   [      on ] [      on ]
+developer             [       0 ] [       0 ]
+chart                 [     off ] [     off ]
+estimate              [      on ] [     off ]
+max texture memory    [ 4194304 ] [ 4194304 ]
+priority              [  Normal ] [  Normal ]
+
+noclip                [     off ] [     off ]
+onlyents              [     off ] [     off ]
+wadtextures           [      on ] [      on ]
+skyclip               [      on ] [      on ]
+hullfile              [    None ] [    None ]
+min surface area      [   0.500 ] [   0.500 ]
+brush union threshold [   0.000 ] [   0.000 ]
+
+Wadinclude list :
+[zhlt.wad]
+[cstrike.WAD]
+[ghost.wad]
+
+
+entering C:\Program Files\Worldcraft\maps\fallen.map
+CreateBrush:
+ (25.87 seconds)
+SetModelCenters:
+ (0.11 seconds)
+CSGBrush:
+ (10.16 seconds)
+Embedding textures from WAD File [\zoners3\zhlt.wad] into BSP
+Embedding textures from WAD File [\sierra\half-life\valve\cstrike.wad] into BSP
+Using WAD File: \sierra\half-life\valve\halflife.wad
+Using WAD File: \sierra\half-life\valve\liquids.wad
+Using WAD File: \sierra\half-life\valve\decals.wad
+Embedding textures from WAD File [\sierra\half-life\valve\ghost.wad] into BSP
+added 30 additional animating textures.
+Texture usage is at 2.37 mb (of 4.00 mb MAX)
+38.67 seconds elapsed
+
+-----   END   hlcsg -----
+
+
+
+hlbsp v2.5.3 rel (May  2 2001)
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (zoner@gearboxsoftware.com)
+-----  BEGIN  hlbsp -----
+Command line: C:\PROGRA~1\WORLDC~1\ZONERS3\HLBSP.EXE -subdivide 240 -maxnodesize 1024 -estimate "C:\Program Files\Worldcraft\maps\fallen.map"
+
+-= Current hlbsp Settings =-
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       1 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [      on ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+priority            [  Normal ] [  Normal ]
+
+noclip              [     off ] [     off ]
+nofill              [     off ] [     off ]
+notjunc             [     off ] [     off ]
+subdivide size      [     240 ] [     240 ] (Min 64) (Max 240)
+max node size       [    1024 ] [    1024 ] (Min 64) (Max 4096)
+
+
+BSP generation successful, writing portal file 'C:\Program Files\Worldcraft\maps\fallen.prt'
+21.42 seconds elapsed
+
+-----   END   hlbsp -----
+
+
+
+hlvis v2.5.3 rel (May  2 2001)
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (zoner@gearboxsoftware.com)
+-----  BEGIN  hlvis -----
+Command line: C:\PROGRA~1\WORLDC~1\ZONERS3\HLVIS.EXE -full -estimate "C:\Program Files\Worldcraft\maps\fallen.map"
+
+-= Current hlvis Settings =-
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       1 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [      on ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+priority            [  Normal ] [  Normal ]
+
+fast vis            [     off ] [     off ]
+full vis            [      on ] [     off ]
+
+
+1354 portalleafs
+4385 numportals
+BasePortalVis:
+ (77.94 seconds)
+LeafThread:
+ (3739.66 seconds)
+average leafs visible: 321
+g_visdatasize:140387  compressed from 230180
+3818.31 seconds elapsed [1h 3m 38s]
+
+-----   END   hlvis -----
+
+
+
+hlrad v2.5.3 rel (May  2 2001)
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (zoner@gearboxsoftware.com)
+-----  BEGIN  hlrad -----
+Command line: C:\PROGRA~1\WORLDC~1\ZONERS3\HLRAD.EXE -extra -sparse -bounce 8 -smooth 80 -chop 64 -texchop 32 -sky 1 -estimate "C:\Program Files\Worldcraft\maps\fallen.map"
+
+-= Current hlrad Settings =-
+Name                | Setting             | Default
+--------------------|---------------------|-------------------------
+threads              [                 1 ] [            Varies ]
+verbose              [               off ] [               off ]
+log                  [                on ] [                on ]
+developer            [                 0 ] [                 0 ]
+chart                [               off ] [               off ]
+estimate             [                on ] [               off ]
+max texture memory   [           4194304 ] [           4194304 ]
+priority             [            Normal ] [            Normal ]
+
+vismatrix algorithm  [            Sparse ] [          Original ]
+oversampling (-extra)[                on ] [               off ]
+bounces              [                 8 ] [                 1 ]
+ambient light        [ 0.000 0.000 0.000 ] [ 0.000 0.000 0.000 ]
+maximum light        [           256.000 ] [           256.000 ]
+circus mode          [               off ] [               off ]
+
+smoothing threshold  [            80.000 ] [            50.000 ]
+direct threshold     [            25.000 ] [            25.000 ]
+direct light scale   [             2.000 ] [             2.000 ]
+coring threshold     [             1.000 ] [             1.000 ]
+patch interpolation  [                on ] [                on ]
+
+texscale             [                on ] [                on ]
+patch subdividing    [                on ] [                on ]
+chop value           [            64.000 ] [            64.000 ]
+texchop value        [            32.000 ] [            32.000 ]
+
+global fade          [             1.000 ] [             1.000 ]
+global falloff       [                 2 ] [                 2 ]
+global light scale   [             1.000 ] [             1.000 ]
+global gamma amount  [             0.500 ] [             0.500 ]
+global sky diffusion [             1.000 ] [             1.000 ]
+
+opaque entities      [                on ] [                on ]
+sky lighting fix     [                on ] [                on ]
+incremental          [               off ] [               off ]
+dump                 [               off ] [               off ]
+
+
+[Reading texlights from 'C:\PROGRAM FILES\WORLDCRAFT\ZONERS3\lights.rad']
+[53 texlights parsed from 'C:\PROGRAM FILES\WORLDCRAFT\ZONERS3\lights.rad']
+
+6006 faces
+Create Patches : 30450 base patches
+0 opaque faces
+263778 square feet [37984112.00 square inches]
+203 direct lights
+
+BuildFacelights:
+ (1052.04 seconds)
+BuildVisLeafs:
+ (351.47 seconds)
+visibility matrix   :   9.6 megs
+MakeScales:
+ (498.50 seconds)
+SwapTransfers:
+ (84.42 seconds)
+Transfer Lists : 21447088 transfers
+       Indices : 16502608 bytes
+          Data : 85788352 bytes
+GatherLight:
+ (17.08 seconds)
+GatherLight:
+ (17.08 seconds)
+GatherLight:
+ (17.02 seconds)
+GatherLight:
+ (17.08 seconds)
+GatherLight:
+ (17.19 seconds)
+GatherLight:
+ (17.08 seconds)
+GatherLight:
+ (17.14 seconds)
+GatherLight:
+ (17.08 seconds)
+FinalLightFace:
+ (16.59 seconds)
+2148.24 seconds elapsed [35m 48s]
+
+-----   END   hlrad -----
+--------------------------------------------------------------------------------
+* OTHER LEVELS BY THE AUTHOR *
+--------------------------------------------------------------------------------
+halflife                : Clubmental
+halflife                : Powertrip
+--------------------------------------------------------------------------------
+* SPECIAL INSTRUCTIONS OR INFORMATION *
+--------------------------------------------------------------------------------
+Extract to your Sierra/halflife/valve/maps folder.
+
+
+   This level is a total revision of [M.O.D]Sandman's map "GHOST" that he made a few years back.   Many thanks go to him for letting me tinker with his level.  I had never done a revision before and liked the idea of trying.   I have improved the r_speeds in most of the map but unfortunately due to time constraints there are still a few areas where the speeds get a bit high.
+
+    The "skeleton" of the original map is here but I have expanded on it a great deal.  Hopefully I achieved the look and feel of what I was going for although I wish I had the time to add a little more ambience sounds to complete the "feeling".
+
+   I hope you enjoy playing "FALLEN" and hope to get feedback from all who play it.  If I get enough response and feedback I may at a later time release an updated version that will complete what I originally wanted in the first place.    Laterz!!
+--------------------------------------------------------------------------------
+* CREDITS *
+--------------------------------------------------------------------------------
+[M.O.D] Sandman         : Creator of the original level "GHOST"
+Monster_HGrunt          : Again for always being there to help me out when I have a problem!!
+The CS Team and the various authors of the following wads used in the construction of this level. : 
+CSTRIKE.WAD             : 
+JOS.WAD                 : 
+CS_DUST.WAD             : 
+CS_BDOG.WAD             : 
+NEILM5.WAD              : 
+CHRONIC.WAD             : 
+--------------------------------------------------------------------------------
+* COPYRIGHT/PERMISSIONS *
+--------------------------------------------------------------------------------
+Authors MAY NOT use this level as a base to build additional levels.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE IT
+IN ANY FORM.
+This LEVEL may be distributed ONLY over the Internet and/or BBS systems
+You are NOT authorized to put this LEVEL on any CD or distribute it in
+any way without my written permission.
+
+ 
+[END OF DATA]=========================================================[.txt|Gen]
+
