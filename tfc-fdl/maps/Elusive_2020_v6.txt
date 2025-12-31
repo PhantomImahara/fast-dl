@@ -1,0 +1,33 @@
+Elusive - 4 V 4
+Made by : [ESAD]NajorT
+
+Objective: Make your way to the back of the enemy base
+and steal the flag. Toss the flag down the lasers or 
+run the flag out the way you came in. Capture the enemy
+flag in the corner at the entrance of your base.
+
+Scoring: 10 points per Capture.
+
+Security: Enemy Team lasers will always kill you and
+can't be turned off.
+
+Notes: Flag carriers drop the Flag when
+they die. Dropped flags return to their Base
+after 60 seconds.
+
+Credits:
+rufiO
+omnuzz
+Master
+Neonlight
+Darkstar
+
+Version 6: 
+-Removed Lip from doors.
+-Doors move a bit faster.
+-Added a teleport to lower spawn.
+-Added landmarks in the flagroom.
+
+
+
+

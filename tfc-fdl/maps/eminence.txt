@@ -1,0 +1,15 @@
+Eminence.
+CTF map by Gogeta.
+Info:
+-I'm pretty sure this map can be played anything from 1v1-9v9.
+ 2v2s etc. could just say no security or such.
+-The detwall is to encourage Heavy D, and to keep the D away from the front door.
+-Bag in the flagroom takes 15 seconds to respawn.
+-Each Grenade bag gives 1 grenade each.
+-Lasers go down for 30 seconds.
+-There is a secret cap.
+
+gl, made for the STA mappers thingy.
+12-17-06
+
+Please report any bugs/errors to me in #intehzone

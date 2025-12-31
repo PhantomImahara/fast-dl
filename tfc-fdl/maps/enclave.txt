@@ -1,0 +1,25 @@
+============= 
+   ENCLAVE
+=============
+
+Reverse Capture The Flag
+
+by Bryan "Zouave" Dillow
+
+Objective: Take the enemy flag from YOUR
+base to the ENEMY base.  
+
+Scoring: 
+1 points for taking the flag to the enemy
+courtyard.
+4 points for getting the flag inside the 
+enemy base.
+10 points for capturing the flag
+
+Flag carriers drop the Flag when
+they die. Dropped flags return to their Base
+after 60 seconds or if touched by the 
+enemy.
+
+Rocks above the waterfall and a section
+of wall at each base are detpackable.

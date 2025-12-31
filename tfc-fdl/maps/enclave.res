@@ -1,0 +1,14 @@
+gfx/env/reddistdn.bmp
+gfx/env/reddistbk.bmp
+gfx/env/reddistft.bmp
+gfx/env/reddistlf.bmp
+gfx/env/reddistrt.bmp
+gfx/env/reddistup.bmp
+gfx/env/reddistup.tga
+gfx/env/reddistdn.tga
+gfx/env/reddistft.tga
+gfx/env/reddistlf.tga
+gfx/env/reddistrt.tga
+gfx/env/reddistbk.tga
+sound/vox/enclave1.wav
+sound/vox/enclave2.wav
