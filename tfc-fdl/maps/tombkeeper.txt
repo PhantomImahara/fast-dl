@@ -1,0 +1,51 @@
+--------------------------
+==========================
+========TombKeeper========
+==========================
+--------------------------
+
+TFC Capture the Flag Egyptian style
+
+Author			: Deacon<WOS> a.k.a. Sphinx
+Title			: tombkeeper
+Filename		: tombhopper.bsp
+Files			: tombkeeper.bsp, tombkeeper.txt, tombkeeper.res, wos.wad
+Build date		: September 18th 2002 01:49AM (complete job took about 1.5 weeks)
+Tools			: Valve Hammer Editor, Wally
+Compile time		: (see tombkeeper_buildspec.txt)
+Compile machine		: AMD Thunderbird 1.2Ghz, 512MB DDR RAM
+
+This is my second attempt at a full scale map.  Tombkeeper is based on an egyptian 
+theme adopted by the WOS gaming clan.  Many of the textures were created by members of Well of Souls.  
+
+CREDITS:
+-----------------------------------------------------------------------
+WOS.wad
+-----------------------------------------------------------------------
+Title 			: WOS wad file with WOS member build graphics
+Filename 		: wos.wad
+Authors 		: Nehebkau, Phlem, Anubis, Exterm, Deadman. (please email me if I left out authors)
+Email Address 		: clanwos@hotmail.com
+Website 		: http://www.clanwos.org
+-----------------------------------------------------------------------
+Jump-pod prefabs:
+-----------------------------------------------------------------------
+Title 			: Anti-mass spectrometer
+Filename 		: Amtimass.map
+Author 			: Razor
+Email Address 		: Razor@claramail.com
+-----------------------------------------------------------------------
+Frag-Pipe prefab:
+-----------------------------------------------------------------------
+Title                   : Frag-pipe
+File(s)                 : Fragpipe.rmf, Fragpipe.map
+Author                  : Brian J. Audette AKA. Lord Dakushna
+Email Address           : Dakushna@aol.com
+Web Site		: www.planethalflife.com/radiation/
+Description             : Half-Life Prefab
+ 
+
+
+
+
+

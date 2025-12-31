@@ -1,0 +1,42 @@
+--------------------------
+==========================
+========TombKeeper2========
+==========================
+--------------------------
+
+Beta Release TFC Capture the Flag map
+
+Second Revision.
+9-19-02
+
+CREDITS:
+-----------------------------------------------------------------------
+WOS.wad
+-----------------------------------------------------------------------
+Title 			: WOS wad file with WOS member build graphics
+Filename 		: wos.wad
+Authors 		: Nehebkau, Phlem, Anubis, Exterm, Deadman. (please email me if I left out authors)
+Email Address 		: clanwos@hotmail.com
+Website 		: http://www.clanwos.org
+-----------------------------------------------------------------------
+Jump-pod prefabs:
+-----------------------------------------------------------------------
+Title 			: Anti-mass spectrometer
+Filename 		: Amtimass.map
+Author 			: Razor
+Email Address 		: Razor@claramail.com
+-----------------------------------------------------------------------
+Frag-Pipe prefab:
+-----------------------------------------------------------------------
+Title                   : Frag-pipe
+File(s)                 : Fragpipe.rmf, Fragpipe.map
+Author                  : Brian J. Audette AKA. Lord Dakushna
+Email Address           : Dakushna@aol.com
+Web Site		: www.planethalflife.com/radiation/
+Description             : Half-Life Prefab
+ 
+
+
+
+
+

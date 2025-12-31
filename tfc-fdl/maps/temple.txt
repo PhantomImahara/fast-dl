@@ -1,0 +1,38 @@
+Temple - Capture The Flag
+
+Objective: Enter the enemy temple and make
+your way to where their Flag resides in the
+church. Get it and bring it back to your
+Healing Pool. Place it in the Pool to
+Capture it. 
+
+Scoring: 5 points per Capture.
+	 10 points per secondary cappage
+	 5 points for flooding the holy chamber with lava
+
+Other Notes: Flag carriers drop the Flag when
+they die. Dropped flags return to their temple
+after 60 seconds.  If the flag is in lava, it could
+return quicker.
+
+The Primary Capture Point is on the lower level, 
+in the healing pool well.  It is directly under the
+flag room.
+
+To Activate Secondary Cap Point:  As DEMOMAN set a
+detpack in front of the enemy HAND that is guarding
+the holy chamber.  With the Hand destroyed, you can
+have access.  Get on top of the button with the scarab.
+Eventually, you will destroy the holy chamber.  
+The Destruction grants your team 5 points and the ability
+to cap for twice the amount of points.  The Secondary Cap Point
+is in the church flag room.
+
+There is a button in the ramp room area that will cause a grate
+to appear over the lava pit under the church.  You can use
+this grate to escape with the flag, and other uses.
+
+-Peregrine     peregrine72206@hotmail.com
+
+
+http://clanimp.recongamer.com

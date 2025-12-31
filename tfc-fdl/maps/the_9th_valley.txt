@@ -1,0 +1,26 @@
+The 9th Valley - Capture The Flag
+    -- the_9th_valley.bsp --
+
+Objective:
+Enter the enemy Base and make your way round
+to the warp tunnel. Access to this is CRUICIAL
+as it leads to where their Flag resides.
+
+Grab it and bring it back to your MAIN DOOR.
+Place it on the square with your team logo
+to Capture it. 
+
+Scoring: 10 points per Capture.
+
+Other Notes:
+Flag carriers drop the Flag when they die.
+Dropped flags return to their Base after
+60 seconds or if they are dropped in an
+irretrievable place (EXCEPT WARP TUNNEL)
+
+The lava pit in the mine is NOT a dead end.
+
+Thx goes to [WTF?]Moog for the Fullmoon sky.
+
+By: Jobabob (c) 2001
+ http://www.btinternet.com/~rsteele/

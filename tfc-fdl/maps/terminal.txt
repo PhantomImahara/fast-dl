@@ -1,0 +1,24 @@
+Terminal Reality - Capture The Flag
+
+Made by [SHS]Wildfire (www.teamshs.com)
+
+wildfire@unrealfortress.com
+
+Objective: Enter the enemy Base and make
+your way to where their Flag resides.
+Grab it and bring it back to your
+Base. Place it on the capture point to
+Score 10 points for your team. 
+
+Scoring: 10 points per Capture.
+
+Other Notes: Flag carriers drop the Flag when
+they die. Dropped flags return to their Base
+after 60 seconds.
+Other Other Notes: Balcony lasers stay down for
+20 seconds (with 10 extra seconds before the 
+button becomes active again, Blast Doors for 60
+with a 10 second inactive period on the button).
+
+Quakenet IRC #tfc.mapping
+kthxbyenow!
