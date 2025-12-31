@@ -1,0 +1,13 @@
+Trigen - Capture The Flag
+By Ziggo
+
+Objective: Enter the enemy base and make
+your way to where their flag resides. Grab it and bring it
+back to your battlements. Place it on the raised square
+to capture it. 
+
+Scoring: 10 points per capture.
+
+Other Notes: Flag carriers drop the flag when
+they die. Dropped flags return to their base
+after 60 seconds.

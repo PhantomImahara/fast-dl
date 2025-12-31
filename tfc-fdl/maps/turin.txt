@@ -1,0 +1,19 @@
+By: [WTF?]Huenberry
+huenberry@lowlife.com
+
+Attack/Defend. Or Keep Away.
+
+Notes:  
+Flag returns immediatly.
+Flag NOT ALLOWED in respawn area.  If you try to enter, 
+the flag will be returned!  Flag resides at IL CENTRO!
+
+Attackers, move through the village and steal
+the flag.  Hold on to it for as long as possible.
+
+Defenders, set up your defense and beat back the attackers!
+
+Scoring:
+Attackers 2 pts every 12 secs when you have the flag.
+Defenders 2 pts every 24 secs when the flag is at its base.
+

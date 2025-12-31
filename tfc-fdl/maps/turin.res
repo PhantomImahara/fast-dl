@@ -1,0 +1,9 @@
+models/wtfpack.mdl
+models/alertpack.mdl
+models/wtflag.mdl
+sound/turin/camelot.wav
+sound/turin/frogs2.wav
+maps/turin.bsp
+maps/turin.txt
+maps/turin.res
+maps/turinreadme.txt
