@@ -1,0 +1,23 @@
+Magelli - Invade and defend
+
+Objective: Blue team starts as the attacker.
+Red team starts as the defender. The attacking
+team must secure 3 command points
+to achieve victory.
+The defending team must keep
+the attackers from capturing
+the command points.
+Once the attacking team captures
+all three command points,
+the teams swap,
+and it starts all over again.
+
+Other notes:
+
+Flag carrier moves at 85% speed
+Dropped flags return after 30 seconds
+Scoring:
+Attacking team - 10 points per Command Point
+captured.
+Defending team - Points are awarded over time
+for defending the command points.

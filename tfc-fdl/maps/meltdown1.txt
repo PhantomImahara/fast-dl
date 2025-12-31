@@ -1,0 +1,42 @@
+MELTDOWN
+================================================================
+Author  : Necrophile
+Email    : necro_phile@hotmail.com
+
+OBJECTIVE:
+Deactivate the enemy's reactor by taking
+keycards from their control center to 
+their reactor's command points.  Once 
+deactivated, a team has 30 seconds to 
+manually shut down their reactor.
+
+SCORING:
+3 for Command Point Capture
+5 for Reactor Capture
+
+
+
+                  
+
+****Special Thanks to DKStrike for his ideas, inspiration, playtesting
+and for his refusing to let me give up countless times on this map.
+More thanks to Ev1L4FuN for helping with the playtesting and for
+finding those remote dark corners I would have never guessed a player
+could reach.  Finally, thanks to everyone else I haven't mentioned.
+All your support has meant the world to me.****
+
+
+
+================================================================
+ COPYRIGHT / PERMISSIONS
+================================================================
+
+Authors MAY NOT use this level as a base to build additional levels.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.

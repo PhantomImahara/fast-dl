@@ -1,0 +1,36 @@
+Title 			:MasterMind's 2 Fort
+Filename		:mm2fort.bsp
+
+Author			:Keith Blank (aka MasterMind)
+Email address 		:mastermind222@hotmail.com
+Website 		:http://www.pc-gamer.net/archive/
+
+Description		:a 2fort CTF map, enter enemy fort get their flag and return it to your capture point
+
+
+Type                    :TFC
+(DM, SP, TFC, TF2)
+
+Status                  :final
+(beta, revised, final)
+
+
+----------------------
+    TESTING INFO
+----------------------
+this is the final version no more testing except multiplayer "playability"
+
+
+----------------------
+   ADDITIONAL INFO
+----------------------
+
+
+
+
+
+Copyright / Permissions
+
+This is the finished work of mine if no bugs are found this is the exact copy i am going to release.
+
+distribute it with this file with no changes and don't sell it.
