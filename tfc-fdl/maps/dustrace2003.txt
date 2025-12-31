@@ -1,0 +1,17 @@
+Dust Race 2003 by SpiKe
+
+www.mallosworld.co.uk/creating_worlds
+
+Objective: 
+Race along the track, try and get to the
+finish line first.
+
+Scoring: 
+10 points for the team and the person who
+gets to the finishing line.
+
+Notes:
+If you fall off the cliff you go back to
+the start line.
+Go through the pitstop for an health and 
+armour boost.

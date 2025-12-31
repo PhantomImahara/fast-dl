@@ -1,0 +1,125 @@
+DELIVERANCE
+
+By Mr.Bee. 
+
+- - - - - - - - - - - - - - - - - - - -
+
+1.  Take your key to the enemy base and
+    activate the gas to kill them and to
+    get 15 points.
+
+2.  Key located down the ladder in resupply
+    room.
+
+3.  Shoot the numbered buttons in the 
+    enemy base to restrict their classes.
+
+4.  Classes are captured for 60 seconds
+
+5.  You may not recapture for 30 seconds 
+    after release.
+
+6.  Engineers may build ladders around the
+    back of the base. 
+    (2 trips are needed to complete it)
+
+- - - - - - - - - - - - - - - - - - - -
+PLAY INFORMATION (PLEASE READ IT)
+- - - - - - - - - - - - - - - - - - - -
+
+1. Your key is located down the ladder in the resupply room
+
+2. Take key to enemy gas chamber located underground.
+
+3. If gas is released there are only 7 suits in the whole map
+   located in the central part of your or your enemies base in
+   the central waterfall and near the gas chamber.
+
+4. Dont fall in the water, you may get a shock :)
+
+5. Capture buttons MUST BE SHOT to activate them.
+
+6. They are numbered to what you press to select that class
+
+7. If your class has been captured simply wait 60 seconds for it to release
+   or change class by using the suicide booths.
+
+8. Soldiers and Scouts cannot be captured.
+
+9. You may not recapture again for another 30 seconds after release.
+
+10. Engineers may find "ladder parts in the key room...take this to the back 
+   of the enemy base to create another way into the base.  Engineers need to
+   make two trips to complete the ladder.
+
+11. Thats about it , enjoy the map!
+
+- - - - - - - - - - - - - - - - - - - -
+
+=====================================================================
+   Half-Life Map Spec Sheet
+=====================================================================
+------General Information--------------------------------------------
+
+Title		: DELIVERANCE
+Filename	: DELIVERANCE.BSP
+Author		: Stuart Bee  (Mr.Bee)
+Home page	: http://www.mrbee.clara.net/
+E-mail		: mrbee@clara.co.uk
+Previous Maps	: quadcapture , drugbaron , flagcontrol
+
+------Credits and Thanks---------------------------------------------
+
+Flintman for his help and for the ladder idea (Cheers Flinty!)
+
+Info_beta and DOE for their feedback.
+
+the worldcraft help site for those example maps!
+valve for making this MOD!
+
+------Play Information-----------------------------------------------
+
+TFC		: Of course!
+Deathmatch	: NO
+Single Player	: NO
+Map Description	: 2 Large prisons with central waterfall
+
+How Many Players: For best results minimum of 10+ (5 vs 5)
+
+------Map Information------------------------------------------------
+
+New Textures	: YES
+New Sounds	: NO
+
+------Construction---------------------------------------------------
+
+Base		: NONE
+Editor(s) used	: Worldcraft 2.1
+Compile Machine	: P2 350 w/128 MB RAM with Voodoo3 3000 and sblive!
+Compile time	: Roughly 120 minutes
+
+------Map Instructions-----------------------------------------------
+
+Unzip the files in this archive.  Place the map, "DELIVERANCE.bsp" in
+your half-life/TFC/maps directory. 
+
+Place the WAD file in the TFC directory!
+
+------Additional Info------------------------------------------------
+
+This template is available at The radium Half-Life Map Center...
+http://www.planethalflife.com/radium
+
+------Copyright-Permissions------------------------------------------
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+
+

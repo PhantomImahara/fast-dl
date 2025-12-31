@@ -1,0 +1,17 @@
+Dam - Capture The Flag
+
+Objective: Enter the enemy base and make
+your way to where their flag resides in the
+flooded basement. Grab it and bring it back to
+your ramp room. Place it on the raised square
+to capture it. 
+
+Scoring: 10 team points per capture, and 10
+frags for the carrier who captured it.
+
+Other Notes: Flag carriers drop the flag when
+they die. Dropped flags return to their base
+after 60 seconds.
+
+by Ai|Bluu (bluunukem@hotmail.com)
+   Ai|danger (lmbaird@uswest.net)

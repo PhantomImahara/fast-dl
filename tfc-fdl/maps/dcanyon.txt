@@ -1,0 +1,21 @@
+=====================================
+         Diablo Canyon
+
+by Snowdog (snowdog@lowlife.com)
+=====================================
+Teams:        3
+
+Objectives:   
+Blue and Red teams play a standard CTF 
+game while raiders (yellow) attemp to
+kill flag carriers on both sides and
+capture the flags at the opposite HQ.
+
+Note: Yellow cannot enter flag rooms.
+
+Scoring:
+Blue & Red: 10 pts per capture
+Yellow:     100 pts per capture
+
+Yellow limited to 6 players of classes
+Scout, Sniper, Spy, Medic, Pryo.
