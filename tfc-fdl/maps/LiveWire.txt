@@ -1,0 +1,15 @@
+LiveWire - Capture the Flag
+
+Objective:
+ Make your way into the enemy's system 
+ and steal their flag. Take it back to 
+ your flag point to capture it.
+
+Scoring: 
+ 10 points per Capture. 10 frags to the 
+ player who captures it.
+
+
+Map by [rogue]Samurai
+http://i.am/dhcp
+teamfortressmaps@yahoo.com
