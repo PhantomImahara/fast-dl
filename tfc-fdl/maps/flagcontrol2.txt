@@ -1,0 +1,85 @@
+Flag Control 2 (2 fort version)
+
+By Mr.Bee.
+
+- - - - - - - - - - - - - - - - - - - -  
+
+When a member of a team takes the flag
+to his teams base, he will score 5 points
+for his team and 1 for himself for very 
+5 seconds he stands on the capture point.
+
+Flag tracking system is located in the 
+respawn rooms
+
+The blocked entrances can be detpacked
+
+Protect the flagbearer at all costs because
+if he dies the flag is returned to the 
+central base.
+
+- - - - - - - - - - - - - - - - - - - - 
+
+
+=====================================================================
+   Half-Life Map Spec Sheet
+=====================================================================
+------General Information--------------------------------------------
+
+Title		: flagcontrol 2
+Filename	: flagcontrol2.BSP
+Author		: Stuart Bee 		[A&I]Mr.Bee
+Home page	: -
+E-mail		: mrbee@clara.co.uk
+Description	: two opposing fortresses and a central base containing the flag
+Previous Maps	: quadcapture, drugbaron , deliverance
+
+------Credits and Thanks---------------------------------------------
+
+the worldcraft help site for those example maps!
+valve for making this MOD!
+
+------Play Information-----------------------------------------------
+
+TFC		: Of course!
+Deathmatch	: NO
+Single Player	: NO
+Map Description	: 2 Opposing fortresses with central base containing flag
+
+How Many Players: For best results minimum of 8+ (4+ vs 4+)
+
+------Map Information------------------------------------------------
+
+New Textures	: NO
+New Sounds	: NO
+
+------Construction---------------------------------------------------
+
+Base		: NONE
+Editor(s) used	: Worldcraft 3.3
+Compile Machine	: P2 350 w/256 MB RAM with Voodoo5 5500 and sblive!
+Compile time	: Roughly 120 minutes
+
+------Map Instructions-----------------------------------------------
+
+Unzip the files in this archive.  Place the map, "flagcontrol2.bsp" in
+your half-life/TFC/maps directory. 
+
+------Additional Info------------------------------------------------
+
+This template is available at The radium Half-Life Map Center...
+http://www.planethalflife.com/radium
+
+------Copyright-Permissions------------------------------------------
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+
+

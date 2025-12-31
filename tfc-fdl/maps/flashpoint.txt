@@ -1,0 +1,19 @@
+Flashpoint
+
+Goals:
+  Secure all 5 command points
+  Activate fusion reactor (with power relays)
+  
+Gameplay:
+  If both objectives are met the
+  reactor complex is CAPTURED.
+  
+  Capturing team obtains additional
+  spawn locations and must protect the
+  power stations from detpack attacks.
+  
+  Missing relays can be repaired at any
+  time.  If all are destroyed, you have
+  15 seconds to restore one before the 
+  reactor hits the point of no return and 
+  explodes. (This resets the map)

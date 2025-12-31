@@ -1,0 +1,89 @@
+Flag Control 
+
+By Mr.Bee.
+
+- - - - - - - - - - - - - - - - - - - -  
+
+When a member of a team takes the flag
+to his teams base, he will score 1 point
+for his team for very 5 seconds he stands
+on the capture point.
+
+Other rules and notes :-
+
+The flag is not allowed in the team spawn
+room, anyone trying this will die and the 
+flag will respawn in the centre of the map.
+
+Flag tracked within different locations
+
+- - - - - - - - - - - - - - - - - - - - 
+
+thanks to ACE_340 for the textures
+
+
+NO NOT REMOVE THIS TEXT FILE AS THE ABOVE APPEARS IN THE MAP!
+
+
+=====================================================================
+   Half-Life Map Spec Sheet
+=====================================================================
+------General Information--------------------------------------------
+
+Title		: flagcontrol
+Filename	: flagcontrol.BSP
+Author		: Stuart Bee 		[WOD]Mr.Bee
+Home page	: -
+E-mail		: sbee@ets-edi.co.uk
+Description	: four opposing fortresses and a central base containing the flag
+Previous Maps	: stadium, trenchrun, rumble, quadcapture, drugbaron
+
+------Credits and Thanks---------------------------------------------
+
+the worldcraft help site for those example maps!
+valve for making this MOD!
+
+------Play Information-----------------------------------------------
+
+TFC		: Of course!
+Deathmatch	: NO
+Single Player	: NO
+Map Description	: 4 Opposing fortresses with central base containing flag
+
+How Many Players: For best results minimum of 8+ (2vs2vs2vs2) or (4 vs 4)
+
+------Map Information------------------------------------------------
+
+New Textures	: YES
+New Sounds	: NO
+
+------Construction---------------------------------------------------
+
+Base		: NONE
+Editor(s) used	: Worldcraft 2.1
+Compile Machine	: P2 350 w/128 MB RAM with Voodoo3 3000 and sblive!
+Compile time	: Roughly 50 minutes
+
+------Map Instructions-----------------------------------------------
+
+Unzip the files in this archive.  Place the map, "quadcapture.bsp" in
+your half-life/TFC/maps directory. 
+
+------Additional Info------------------------------------------------
+
+This template is available at The radium Half-Life Map Center...
+http://www.planethalflife.com/radium
+
+------Copyright-Permissions------------------------------------------
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+
+

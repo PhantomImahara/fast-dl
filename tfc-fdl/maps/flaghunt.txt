@@ -1,0 +1,30 @@
+Flag Hunt: Rock the Casbah!
+Seek and Capture
+[WTF?]Chemical Burn
+http://chemaps.valvelegion.org
+
+Objective:
+  Find scattered enemy or neutral flags and
+  return them to your capture point located
+  inside your base.
+
+Scoring:
+  Five team points and two personal frags
+  for securing a flag.
+
+Other Notes:
+  -Flag carriers walk at 75% speed. 
+  -Dropped flags are removed permenantly from the
+   map after 15 seconds.
+  -Flags stop appearing after 40 minutes.
+  -Map change is forced after 45 minutes.
+
+
+By,
+
+  Dave Vanderburg
+  [WTF?]Chemical Burn
+
+  ICQ# 53510429
+  wtfchemicalburn@home.com
+  http://chemaps.valvelegion.org

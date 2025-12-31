@@ -1,0 +1,17 @@
+   BETA = Fort Night's Destruction = BETA
+
+Objective: Enter the enemy Base and
+1.  Blow Open Enemy Security with a detpack.
+2.  Destroy The Enemy Security
+    computer.
+3.  Capture The Enemy Flag!!!
+
+Scoring:  5  points for destroying computer.
+	  10 points per Capture.
+
+Other Notes: Flag carriers drop the Flag when
+they die. Dropped flags return to their Base
+after 30 seconds.
+
+Author: Bittoman
+bmain@hotmail.com
