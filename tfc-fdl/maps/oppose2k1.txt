@@ -1,0 +1,18 @@
+Opposing Forces 2k1 - Capture The Flag
+
+By Jay "Deride" Lindholm
+
+Objective: Enter the enemy Base and make
+your way to where their Flag resides 
+Upstairs. Grab it and bring it back to your
+Battlements. Place it on the raised square to
+Capture it. 
+
+Scoring: 10 points per Capture.
+
+Other Notes: Flag carriers drop the Flag when
+they die. Dropped flags return to their Base
+after 60 seconds. Demomen can blow open enemy
+water route. Engineers can fix enemy lift 
+power button with wrench. You Spawn Fully
+Loaded.

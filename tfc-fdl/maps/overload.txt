@@ -1,0 +1,32 @@
+OverLoad
+
+by mk_ultra/parc
+
+
+Capture The Flag
+
+
+Objective:
+
+Pick up the enemy Flag and 
+take it to your Capture Point.
+
+
+Scoring: 
+
+10 Points per Flag Capture
+
+
+Other Notes: 
+
+Flag Carriers drop the Flag when they die. 
+Dropped Flags return to their Base after 40 seconds.
+Spies lose their disguise when they pick up the Flag.
+Grenade Bags respawn after 50 seconds.
+
+(c)2001/2002 dan
+
+contact: 
+parc@clanfab.com
+#tfc.mapping and #fab-clan on quakenet.irc
+

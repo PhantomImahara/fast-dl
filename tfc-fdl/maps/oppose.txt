@@ -1,0 +1,18 @@
+
+Opposing Forces - Capture The Flag
+
+By:Jay "Deride" Lindholm of the Kindred Clan.
+
+Based On RIP's original TF version of Oppose.
+
+Objective: Enter the Enemy Base and make
+your way to where their Flag resides Upstairs.
+Grab it and bring it back to your
+Battlements. Jump it through the hole in the
+ceiling to Capture. 
+
+Scoring: 10 points per Capture.
+
+Other Notes: Flag carriers drop the Flag when
+they die. Dropped flags return to their Base
+after 60 seconds.

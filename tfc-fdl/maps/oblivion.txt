@@ -1,0 +1,14 @@
+=Oblivion = Security Cap the flag map = 
+By [WTF?]Defrag [DW] |404|
+ 
+OBJECTIVES
+==========
+Disable the enemy security flag beams using the button in the attic,
+then teef and cap the flag for 10 team points
+
+NOTES:
+======
+Flag security is disabled for 90 seconds at a time,
+the security button resets after 100 seconds.
+
+simple ;)
