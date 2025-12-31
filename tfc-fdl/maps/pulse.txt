@@ -1,0 +1,37 @@
+Pulse Beta3
+By Jamie "Skeebz" Manson
+jamiemanson@hotmail.com
+www.builder-clan.co.uk
+
+Capture The Flag for 10 points
+Dropped flags return to their 
+Base after 60 seconds.
+
+Flagroom glass roofs are Detpackable. 
+Main room grate can be destroyed, to 
+allow quicker flag room access.
+There is a teleport to the capture
+point from the snipers nest.
+
+Only one respawn, but many resupplies
+Respawn - Main Room
+Resupply- Sniper nest & beside flagroom  
+
+www.lx3.info
+www.bygames.com
+
+Another map made for the BY community 
+
+Thanks to:
+
+Worx/smile server for testing
+TCA/TS server for testing
+Toothpick for map name and suggestions
+Murasame for suggestions
+Eni for map suggestions
+CiC and TCA for having a proper match on it!
+Hulkeh for randomness/uploading map :D
+
+And the BY community! 
+
+(And there is also an egg)

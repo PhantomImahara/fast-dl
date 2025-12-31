@@ -1,0 +1,12 @@
+Objective: Retrieve enemy Pharaohs flag and 
+capture it by returning it to your battlements. 
+
+Scoring: 10 points per Capture.
+
+Other Notes: Flag carriers drop the flag when
+they die. Dropped flags return to their Base
+after 60 seconds.
+
+Author  : Grain
+Email   : flatplanet@excite.com
+Web     : http://www.grains-silo.org

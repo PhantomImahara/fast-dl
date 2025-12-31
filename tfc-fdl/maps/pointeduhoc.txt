@@ -1,0 +1,29 @@
+============================================
+                POINTE DU HOC 
+
+              Invade or defend
+============================================
+
+          by Bryan "Zouave" Dillow
+
+Objective: Blue team must take their flag 
+through the Red team's defenses to win the  
+game.  There are three command points on the 
+way which must be secured in order.
+
+Scoring: Blue team - 4 points per minute
+	 Red team - 30 points for capturing 
+			the beach
+		  - 30 points for capturing 
+			the farms
+		  - 40 points for capturing 	
+			the town
+
+Other Notes: 
+
+- Dropped flags return after 75 seconds
+- When a capture point is secured, 
+spawn points are revised and a new flag 
+appears. 
+- Rounds last 25 minutes.
+- Flag carriers move at 75% of normal speed

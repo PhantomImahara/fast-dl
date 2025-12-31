@@ -1,0 +1,15 @@
+gfx/env/channelmorningbk.tga
+gfx/env/channelmorningdn.tga
+gfx/env/channelmorningft.tga
+gfx/env/channelmorninglf.tga
+gfx/env/channelmorningrt.tga
+gfx/env/channelmorningup.tga
+maps/pointeduhoc.bsp
+maps/pointeduhoc.txt
+pointeduhoc_readme.txt
+models/prez_statue.mdl
+sound/ponteduhoc/airraid.wav
+sound/ponteduhoc/whistle.wav
+sound/ponteduhoc/whiteout.wav
+overviews/pointeduhoc.tga
+overviews/pointeduhoc.txt
