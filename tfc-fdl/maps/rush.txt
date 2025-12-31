@@ -1,0 +1,15 @@
+Rush - Invade and defend
+by Alexander Taylor aka Tayl0r
+
+Objective: Each team must take the flag in
+their base to the capture point outside the
+other teams.
+
+Scoring: 10 points per Capture.
+
+Other Notes: Flag carriers drop the Flag when
+they die. Dropped flags return to their Base
+after 60 seconds.
+
+Thanks to: Chips, for giving me the inspiration
+to finish this map :)

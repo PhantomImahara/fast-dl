@@ -1,0 +1,101 @@
+Raiden7 - Capture The Flag
+A Mix of Raiden_l2 and Raiden3
+
+Objectives: 
+Get the enemy flag, return it to your base.
+Defend your flag. 
+
+Scoring: 10 points per Capture.
+         2 extra points for Coast-to-Coast Capture.
+	 10 points for Hidden Capture Point. Try and find it!
+
+Original Mapping by: ULIBOH
+Remade and Revamped by: NeonLight
+
+Thanks : ULIBOH for the great map
+	 inhouse crew for testing
+
+Changelog:
+
+11/27/22
+------------------------------------------------------
+Properly flipped map
+Adjusted some textures and lighting
+Made Grenade Bag in Respawns Medic only
+Added Bag Info on Pickup
+
+10/7/22
+------------------------------------------------------
+Adjusted Back Way ladder into Flag Room (straight instead of angled)
+Changed Water texture
+Added Wheaties plaque hes been asking for :)
+
+9/27/22
+------------------------------------------------------
+Reduced Blue resupply grenade bag contents (0|1)
+Removed Red resupply grenade bags
+Changed Water texture
+
+7/13/22
+------------------------------------------------------
+Moved Top Ramp Room bag to back right corner
+Narrowed Battlements to Top Ramp Room hallway
+Added side rails to Engineer lift
+Added skylight to blue spawns
+Backway pit barrel deals minimal damage allowing for easier escape
+Various texture and lighting fixes/changes
+
+3/13/22
+------------------------------------------------------
+Reverted Top Ramp Room to even flooring and square holes
+Adjusted ladders from Ramp Room to top Ramp Room
+Changed Engineer ladder to Engineer lift
+Adjusted plank to have slightly more health (1750 -> 2000)
+Various texture and lighting fixes
+
+2/27/22
+------------------------------------------------------
+Fixed Engy Ladder
+
+2/26/22
+------------------------------------------------------
+Fixed messed up floor in top Ramp Room
+Adjusted ladders from Ramp Room to top Ramp Room
+Changed Water Way exit room
+Raised Water shoop button
+Moved a few lights
+Fixed misaligned textures
+
+2/14/22
+------------------------------------------------------
+Fixed lighting error in top ramproom
+Changed skybox and environment lighting
+Added trims to spawns
+Added skylight to spawns
+Changed lighting around flag
+Removed various small lights
+Fixed water way textures
+Removed excess spawns (30 per team to 16 per team)
+Changed secret cap sound ( if you have the file :) )
+Changed team emblem on the Flag Room ceiling to illusionary so you cna go through it
+
+2/11/22
+------------------------------------------------------
+Fixed crash glitch
+
+1/21/22
+------------------------------------------------------
+Widened side walkways in top Ramp Room
+Trimmed ramps in top Ramp Room for easier visualization
+Made top ladders platform flush with the bridge in top Ramp Room
+
+1/21/22
+------------------------------------------------------
+Changed top Ramp Room layout
+Fixed misaligned textures
+Added more environment lights to back way
+Halfed backway bridge health
+
+1/11/22
+------------------------------------------------------
+Adjusted top bag, 45h 75a 15s respawn

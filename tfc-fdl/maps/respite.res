@@ -1,0 +1,15 @@
+gfx/env/xt_grnhills2up.tga
+gfx/env/xt_grnhills2dn.tga
+gfx/env/xt_grnhills2ft.tga
+gfx/env/xt_grnhills2lf.tga
+gfx/env/xt_grnhills2rt.tga
+gfx/env/xt_grnhills2bk.tga
+maps/respite.txt
+maps/respite.bsp
+models/respite/xen_tree7_1.mdl
+models/respite/xen_tree7_4.mdl
+sound/respite/bird
+sound/respite/waterflow
+sound/respite/winterwind3
+overviews/respite.bsp
+overviews/respite.txt

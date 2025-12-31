@@ -1,0 +1,21 @@
+The Ruins - Invade and defend 
+by Reaper 47
+(reaper47@gmx.at)
+
+Objective: Blue team (Attackers) must bring their 
+flag to the Command Point inside the Red base.
+Red team (Defenders) tries to defend the 
+Command Point as long as possible. Once the 
+Attackers succeed, the flag is reset and all 
+players are moved back to their starting positions.
+
+The gates open after 60 seconds. The flag returns
+after 3 minutes.
+
+Scoring:
+
+Blue team - 15 points for reaching the Command Point
+inside the Red base.
+Red team - 10 points each time the enemy flag 
+returns. Additionally points are awarded every 5 
+minutes for defending the Command Point.

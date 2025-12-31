@@ -1,0 +1,46 @@
+=========================
+  Runaway! Spec Sheet
+=========================
+---General Information---
+Title 			:Runaway!
+Filename		:runaway.bsp
+Author			:Gary Lanza AKA LooseCannoN
+Other lvls by author	:Some infantry quake maps, vietnam quake maps, working on one for firearms
+
+Email address 		:looscanon@msn.com
+Home page		:
+Additional Credits to   :me, Armin rigo for quark the best level editor in the world, 
+and god :-).
+
+---Play Information------
+Map Description		:Hunted map in a small urban area.
+Map Objective		:Get hunted to helipad, bodyguards protect hunted, assassins kill hunted
+Scoring Information	:50 for hunted if escaps, 25 for assassins killin him
+Number of Teams		:3
+Recommended # of Players:not too many like 10 or 12
+
+---Map Information-------
+New Textures            :nope
+New Sounds		:nada
+
+---Construction----------
+Base			:scratch
+Editor(s) used          :QUARK 5.8
+Compile Machine		:P2 266 64 ram
+Compile time		:like 4 hours
+
+---Additional Info-------
+drive the hummer its great fun :-)
+
+
+---Copyright-Permissions--------------------------------------------
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+

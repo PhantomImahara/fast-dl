@@ -1,0 +1,20 @@
+Rampage v1.0
+by Kabul Wu (aka Peter Adams)
+email - kabulwu@cinci.rr.com
+---------------
+OBJECTIVES:
+The Red and Blue teams must take their flag 
+from the center arena and bring it to the 
+capture point deep in the enemy base. 
+The Yellow team does everything in their power 
+to stop either team from capturing the flag. 
+---------------
+SCORING:
+Red and Blue get 10 points and 5 frags per cap. 
+Yellow in turn gets 4 points every 5 minutes.  
+---------------
+NOTES:
+The flags are guarded by a laser, which may be turned 
+off by a switch accross the arena.
+Flags remain where dropped for 45 seconds, and flag 
+runners move at a slightly reduced speed.
