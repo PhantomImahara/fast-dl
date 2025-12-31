@@ -1,0 +1,9 @@
+adera_l - Capture The Flag
+
+Objective: Capture the enemy flag by deactivating their security laser and doors. By deactivating the enemy's security doors you will have a much easier and faster way to access the flag room. The security downtime is only 45 seconds, so be fast and good luck!
+
+Scoring: 10 points per Capture.
+
+Other Notes: Flag carriers drop the Flag when
+they die. Dropped flags return to their Base
+after 30 seconds.

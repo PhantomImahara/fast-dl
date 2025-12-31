@@ -1,0 +1,17 @@
+Absolute Zero
+by aXon
+http://www.pixelmaps.com/
+
+Objective: Make your way to the enemy Canyon where your 
+Flag is being held. Pick it up and take it to the
+Center Bridge to capture it. It will stay there until 
+the enemy team gets their Flag from your Canyon and 
+captures it at the same Capture Point.
+
+Scoring: 5 Team Points, 5 Frags, and 30 seconds of Quad 
+Damage for taking the Capture Point.
+5 Team Points every 30 seconds thereafter that your 
+team holds the Capture Point.
+
+Notes: Dropped flags return after 60 seconds. All 
+packs are useable by either team.
