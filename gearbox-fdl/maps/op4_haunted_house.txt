@@ -1,0 +1,64 @@
+=======================================================================
+op4_haunted_house: an Opposing Force Map by Cucumbez November 16th 2008
+=======================================================================
+
+Map Name:                       	haunted_house.bsp
+Filesize:                       	2.903kb
+Author:                         	Cucumbez
+Author email:                   	cucumbez@hotmail.com
+Homepage:				http://www.op4gunners.com                    
+Wad included in map:          		hauhou.wad
+Wad:					compiled by Cucumbez
+
+=======================================================================
+LEVEL DESCRIPTION:
+
+Single Player:                 	No
+Co-Op:                         	No
+Deathmatch:                     Yes
+Suggested Players:              5-20
+New Textures:                   Yes 
+New Sounds:                     Yes
+New Models:                     No
+No. of Secrets:			None
+No. of Teleports:		None
+No. of Monsters:		None
+Spawnpoints:			10
+
+Map description:                Map based on kz_hauntedhouse for CS.															
+=======================================================================
+CONSTRUCTION:
+
+base map:                       		kz_hauntedhouse for CS
+prefabs:                        		None
+editor used:                    	 	Hammer 3.4 
+utilities used:                 		Zoner's Half-Life compile tools, Paintshop Pro 9, Wally, Batch Compiler
+known bugs:                     		None
+compile machine:                		Intel Pentium 4   2.53 GHZ
+compile time:                   		30 minutes
+
+========================================================================
+INSTALLATION:
+
+
+1. 	Run Winzip and unzip op4_haunted_house.zip.
+
+2. 	Open your op4_haunted_house folder and place the op4_haunted_house.bsp, op4_haunted_house.res, and op4_haunted_house.txt in your gearbox/maps folder.  
+
+3.	Copy the hauhou sound folder into your gearbox/sound folder.
+
+4.	Copy the gfx folder into your gearbox/gfx folder.
+	
+5.	Place the hauhou.wad file in your gearbox folder.
+	
+
+=======================================================
+OTHER LEVELS BY Cucumbez:
+
+death_dome2.bsp kaboom.bsp tron_street.bsp
+towers2008
+
+=======================================================
+
+
+Cucumbez's next map: Uboat
