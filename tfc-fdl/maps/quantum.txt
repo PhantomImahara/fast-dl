@@ -1,0 +1,17 @@
+Quantum - Capture The Flag
+
+By =BC=eat 
+
+Objective: Enter the enemy base and proceed to the enemy flagroom and Steal the flag.  Return it to the capture point to capture it!
+
+Scoring: 10 points per Capture.
+
+Other Notes: Flag carriers drop the Flag when
+they die. Dropped flags return to their Base
+after 60 seconds. Use the switch in the loft to 
+deactivate the water laser for 30 seconds
+
+
+
+www.body-count.org
+

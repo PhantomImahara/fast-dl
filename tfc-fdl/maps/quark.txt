@@ -1,0 +1,14 @@
+Quark - Capture The Flag
+By Ziggo
+
+Objective: Enter the enemy Base and make
+your way to where their Flag resides. Grab it and bring it
+back to the middle bunker or the top of your Base. 
+Place it on the raised square to Capture it. 
+
+Scoring: 10 points per Capture on the middle bunker.
+15 points per Capture on the top of your Base.
+
+Other Notes: Flag carriers drop the Flag when
+they die. Dropped flags return to their Base
+after 60 seconds.
