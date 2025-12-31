@@ -1,0 +1,18 @@
+INHUME
+
+Objective: To get into the enemy
+base, take their flag and return
+home with it where it can be
+captured.
+
+Scoring: 10 points per capture
+and 1 point per kill.
+
+Other Notes: Dropped flags return 
+to their base after 60 seconds.
+
+Contact Details:
+Email: delboy@technolgist.com
+ICQ: 7402270
+
+(c) 1999 Delboy
