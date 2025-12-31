@@ -1,0 +1,114 @@
+
+
+Unearthed Revised - Territorial Control
+by Peregrine
+
+[FIXED BLUE FLAG 1 BUG]
+
+
+Objective: Take Flags from your Control
+Center and place them on the Command Points
+situated throughout the canyon. 
+
+Scoring: 
+1 point for every 30 seconds
+you hold a Command Point.  
+1 point for capturing a Command Point.
+A Bonus (25 points) will be given if a team
+controls the entire canyon.
+
+Other Notes: 
+Flag carriers move at 75% speed.
+
+The buttons in CP1, CP2, CP4, and CP5 need to be 
+shot to activate.  The button in CP3 needs to be 
+used.  The buttons only work for the team 
+that owns the command point.
+
+The object in the middle of the base is a teleporter.
+It might help classes get to certain CPs faster.
+
+There are anti-personnel traps 
+scattered throughout the ancient ruins.  
+Some traps require control of the area to
+be able to be used.
+
+If CP3 is owned by your team, a grenade bag
+useable only by your team will appear in
+your base.  Extra incentive to get
+CP3.  No grenade bag by default.
+
+A spy can open doors to the enemy base.
+The demoman must find another way in
+to the Command Center.  The keyboard
+near the door to the enemy base
+can be used by a spy to grant access to
+friendlies. 
+
+The teleporter in the outpost works for both teams, the 
+teleporter in the base only works for
+the team that owns it.
+
+Conc-equipped Offensive classes are given full concs at spawn.
+
+Demomen can detonate the enemy command center
+in order to reset all of the enemy command points.
+It will Stop the flow of artifacts being recovered
+by the enemy.  
+
+The map is quite huge.  In fact, this map shouldn't even have
+been released.  I reached MAX_MAP_PLANES.  Luckily, I found new
+ZHLT compile tools in a Natural Selection Mapping Post by 
+XP-Cagey.  These tools increased the plane amount, allowing the map
+to be played.  (It was also optimized using a program by XP-Cagey)
+Thanks to Merl, Zoner, and XP-Cagey for all contributing
+to the releasing of the map.  (Its still really huge)
+
+I also exceeded the MAX_MAP_CLIPNODES in creating this map.  I remedied this by creating more clip brushes (Areas you can't get to, even though it looks possible, sorry for that, mostly near signposts) and I took out a lot of detail.  Sorry, the map isn't as detailed as it should be.  (Mostly on rock walls and terrain, lots of flat areas where it used to be realistic)
+Cagey's modifications for the CSG code also helped tremendously.
+
+
+-Peregrine
+peregrine72206@earthlink.net
+
+(A Decent Story!)   [yes, I wrote a story about the map.... shut up.)
+Two excavation teams have unearthed the strange 
+ruins of an ancient civilization.  These ancient 
+ones seemed to have a good grasp of technology.
+The temple-like structures seem to be in
+the process of being upgraded with this 
+technology.  It is unknown what happened
+to this race of people.  Perhaps
+their technology was their own doom.
+The two excavation teams both say
+they were the original team to discover
+the ruins.  A small conflict became
+extremely violent.  Something... is in
+this canyon.  The two teams are lusting
+for each other's blood.  Perhaps
+this was the fate of the ancients.
+Self-Destruction.  The two teams have found
+teleportation devices in the canyon.  If
+coded correctly, the teleportation devices
+can lock on and transmit the artifacts in the area.
+Newly designed flags with the insignia of
+the particular excavation team are infused with
+different code frequencies.  If these flags
+were placed on the teleportation Command
+Points, the Command Point would begin 
+sending priceless artifacts to the owner of
+the Command Point.  
+If the entire canyon is taken over by a particular
+team, the teleportation frequencies on the
+command points will cancel out, causing a power
+surge that will knock out all of the command points.
+Fortunately, the final surge will trasmit a lot of
+artifacts all at once.  Sending a demolitions expert 
+into the enemy command center
+is an effective strategy, performed by both teams.
+A detpack can cripple the flow of artifacts, by
+disabling all flags in the canyon.  The war for
+the magical devices found in the canyon has
+intensified.  What has humanity uncovered in this
+canyon?  Nothing.  Greed, hatred, and war
+are nothing new at all.
