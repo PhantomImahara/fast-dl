@@ -1,0 +1,17 @@
+
+Author: dan 'synj' paladin
+Level: synjdm1b.bsp 'the glubsnub'
+
+date: 11/30/98
+tool used: Worldcraft (Halflife CD version)
+build time: 1 week to make, 1 hour to vis
+comments: two story building with 5 traps and 1 turret.
+
+singleplayer: no
+multiplayer: yes
+recommended amount: 4-10 FFA, 3on3 team
+cheesy advertisements: yes (below)
+
+http://synj.rigamer.com
+http://synj.rigamer.com/hl
+http://synj.rigamer.com/np

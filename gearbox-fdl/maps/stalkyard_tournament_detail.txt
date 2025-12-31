@@ -1,0 +1,101 @@
+//=============================================================================================================================================================
+// detail textures file for stalkyard_tournament.bsp
+// created by Napoleon
+// 76 textures referenced
+//=============================================================================================================================================================
+// We do not need detail textures for system (tool) defined textures (they are invisible anyway).
+// Still I'll leave the names of the textures here for completion sake. I will give some trivia about them.
+//
+// aaatrigger		tool texture used by mappers to help identify trigger brush entities in their editing.
+// black			tool texture used to cover empty spaces.
+// clip				tool texture creates a clip plane (invisible wall) on all four cliphulls that players cannot move through, but can shoot through.
+// origin			tool texture used to cover the "origin" brush.
+// sky				tool texture used for creating the skybox.
+// {blue			tool texture used for creating transparent objects.
+//
+// Do NOT un-comment the entries!
+//=============================================================================================================================================================
+// [texture name]	[detail texture name]					[hscale]	[vscale]
+// example			detail/example							10.0		10.0
+//=============================================================================================================================================================
+CLYLABCOMP01h		detail/dt_metal2						1.0			1.0      
+CLYSIGNDANG04B		detail/dt_metal2						1.0			1.0      
+PRXLIGHT3B			detail/dt_metal2						1.0			1.0          
+PRXMETAL8			detail/dt_metal2						1.0			1.0           
+PRXMETAL8A			detail/dt_metal2						1.0			1.0  
+sky					detail/dt_metal2						1.0			1.0               
+{PRXDUCT1O			detail/dt_metal2						1.0			1.0         
+pfab_vent2			detail/dt_metal2						1.0			1.0        
++0~fifties_lgt2		detail/dt_metal2						1.0			1.0    
++a~fifties_lgt2		detail/dt_metal2						1.0			1.0    
+ammo01				detail/dt_metal2						1.0			1.0             
+crete4_flr03		detail/dt_metal2						1.0			1.0  
+lab1_trim3			detail/dt_metal2						1.0			1.0          
+pfab_vent3			detail/dt_metal2						1.0			1.0         
+tnnl_flr1a			detail/dt_metal2						1.0			1.0        
++0ctrl_01b			detail/dt_metal2						1.0			1.0         
++0medkitA			detail/dt_medkiton						1.0			1.0         
++0o1				detail/dt_metal2						1.0			1.0             
++0o2				detail/dt_metal2						1.0			1.0
++0o3				detail/dt_metal2						1.0			1.0              
++0rechargeA			detail/dt_rechargeon					1.0			1.0       
++1o1				detail/dt_metal2						1.0			1.0              
++1o2				detail/dt_metal2						1.0			1.0              
++1o3				detail/dt_metal2						1.0			1.0              
++actrl_01b			detail/dt_metal2						1.0			1.0         
++amedkitA			detail/dt_medkitoff						1.0			1.0
++arechargeA			detail/dt_rechargeoff					1.0			1.0       
+Asfalto				detail/dt_metal2						1.0			1.0           
+base_flat_med		detail/dt_crystallized1					1.0			1.0     
+base_grooved		detail/dt_metal2						1.0			1.0      
+base_h_ridged_2		detail/dt_ridgedbase2					1.0			1.0   
+CLYSIGNDANG25B		detail/dt_metal2						1.0			1.0     
+cr_large_green		detail/dt_metal2						1.0			1.0
+e7sbrickfloorgl		detail/dt_e7sbrickfloor					1.0			1.0   
+e7sbrickfloor_j		detail/dt_metal2						1.0			1.0   
+flr_greyx1			detail/dt_flr_greyx1					1.0			1.0        
+flr_greyx2			detail/dt_flr_greyx2					1.0			1.0        
+flr_yg03warn1		detail/dt_yg03warn1						1.0			1.0     
+light05a			detail/dt_metal2						1.0			1.0            
+light_newwhite		detail/dt_metal2						1.0			1.0  
+mazfloor2			detail/dt_mazfloor2						1.0			1.0         
+mis_com1a			detail/dt_mis_com1a						1.0			1.0         
+mis_com1b			detail/dt_mis_com1b						1.0			1.0         
+mod_light3b			detail/dt_metal2						1.0			1.0         	  
+mod_lights2a      	detail/dt_crystallized1					1.0			1.0  
+mod_lights3a		detail/dt_crystallized1					1.0			1.0
+mod_metal1a			detail/dt_metal2						1.0			1.0 
+mod_striptrim1b		detail/dt_metal2						1.0			1.0     
+mod_striptrim8b		detail/dt_metal2						1.0			1.0     
+pk01_floor01a		detail/dt_pk01floor01					1.0			1.0 
+pk01_floor01b		detail/dt_pk01floor01					1.0			1.0 
+pk01_floor02a		detail/dt_pk01floor02a					1.0			1.0
+pk01_floor02b		detail/dt_pk01floor02b					1.0			1.0     
+pk01_floor02c		detail/dt_pk01floor02b					1.0			1.0 
+pk01_gra_floor0   	detail/dt_pk01gra_floor01				1.0			1.0
+pk01_panel02		detail/dt_pk01panel02					1.0			1.0      
+pk01_pan_trim03		detail/dt_pk01pantrim03					1.0			1.0   
+pk01_roof01			detail/dt_pk01roof01					1.0			1.0       
+pk01_thin_wall0		detail/dt_pk01thinwall01a 				1.0			1.0
+pk01_tile_floor		detail/dt_pk01tilefloor01a 				1.0			1.0  
+pk01_trims01a		detail/dt_pk01trims01a					1.0			1.0
+pk01_trims01b		detail/dt_pk01trims01b					1.0			1.0    
+pk01_vent_wall0		detail/dt_pk01ventwall01a				1.0			1.0
+pk01_wall02b		detail/dt_pk01wall02b					1.0			1.0
+pk01_wall04a		detail/dt_pk01wall04a					1.0			1.0 
+pk02_floor11		detail/dt_pk02floor11					1.0			1.0     
+pk02_pipes01		detail/dt_pk02pipes01					1.0			1.0      
+pkw_barrel02a		detail/dt_metal2						1.0			1.0 
+pkw_barrel02b		detail/dt_metal2						1.0			1.0      
+wall_grey04			detail/dt_wall_grey04					1.0			1.0       
+wall_grey05			detail/dt_wall_grey05					1.0			1.0       
+wall_panel14		detail/dt_wall_panel14					1.0			1.0     
+{kf_ladder001a		detail/dt_metal2						1.0			1.0    
+fade_white			detail/dt_metal2						1.0			1.0        
+jp_bluefade			detail/dt_metal2						1.0			1.0 
+pv_ssneonbl			detail/dt_metal2						1.0			1.0 
+//=============================================================================================================================================================
+// End of detail textures file for stalkyard_tournament
+// thanks for reading
+// Napoleon was here, some undisclosed time, 2023
+//=============================================================================================================================================================
