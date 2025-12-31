@@ -1,0 +1,17 @@
+Cydonia - CTF/Destroy Control Center
+
+Objective: Enter the enemy base and make
+your way to where their flag resides in the
+back. Grab it and bring it back to your
+cap point. Secondary goal is to destroy
+the enemy control center.
+
+Scoring: 15 Pts for each CAP
+              7 Pts for deting the control center
+
+Other Notes: Dropped flags return to their
+base after 60 seconds. Control center doors
+stay open for 30 seconds. Refer to
+"cydonia_txt.txt" for more info.
+
+(C)1999 Z Factor Productions

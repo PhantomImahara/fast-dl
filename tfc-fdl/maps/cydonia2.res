@@ -1,0 +1,13 @@
+gfx/env/cydoniabk.tga
+gfx/env/cydoniadn.tga
+gfx/env/cydoniaft.tga
+gfx/env/cydonialf.tga
+gfx/env/cydoniaup.tga
+sound/cydonia/bigwarning.wav
+sound/cydonia/computer5.wav
+sound/cydonia/cy_amr_03.wav
+sound/cydonia/cy_amr_04.wav
+sound/cydonia/dsamb9.wav
+maps/cydonia2_txt.txt
+maps/cydonia2.txt
+maps/cydonia2.bsp

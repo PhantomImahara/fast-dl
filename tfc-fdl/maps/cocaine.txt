@@ -1,0 +1,14 @@
+Cocaine - Kill The Drug Baron
+
+By SpiKe www.mallosworld.co.uk/creating_worlds
+
+Objective: Welcome to a Columbian Drug den.
+Rival factions are at war for a large amount
+of coke. The assassins must take out the drug
+baron so they can monopolise the market.
+The bodyguards must protect their boss so they
+can get a cut of this month's sales.
+
+Scoring: 5 pts every 30 seconds to bodyguards
+for protecting the drug baron. 10 pts to 
+assassins for killing him.

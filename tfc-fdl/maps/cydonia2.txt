@@ -1,0 +1,19 @@
+Cydonia II - CTF/Destroy Control Center
+By: AKULA-J-
+
+Objective: Enter the enemy base and make
+your way to where their flag resides in the
+back. Grab it and bring it back to your
+cap point. Secondary goal is to destroy
+the enemy control center with a detpack.
+
+Scoring:  5 Pts for each flag capture
+              3 Pts for detpacking the control center
+
+Other Notes: Dropped flags return to their
+base after 60 seconds. One way teleporters
+in the respawns to the basement. Control 
+center doors stay open for 30 seconds. 
+Refer to "cydonia2_txt.txt" for more information.
+
+(C)2001 Z Factor Productions
