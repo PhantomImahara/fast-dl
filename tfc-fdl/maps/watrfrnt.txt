@@ -1,0 +1,17 @@
+*** THE WATERFRONT ***
+
+Objectives:
+
+ - Capture your own flag!
+
+ - Take your flag on a lap of the map then
+   return it to outside your base.
+
+ - Don't cut too many corners
+
+ - 1 point / 5 Frags per lap
+
+Other Notes:
+
+ - Flags return after 30 secs
+

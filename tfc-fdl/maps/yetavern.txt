@@ -1,0 +1,20 @@
+Ye Tavern - Assault and Protect
+
+By: BoX
+
+For: All TFC players, the inspiration came from input by players at Axl's TFC servers for something different.
+
+Ye Tavern consists of two rounds of play, then the map ends.
+
+In round 1 the drunks assault and the alcoholics protect.
+In round 2 the roles are reversed.
+
+Assaulters Objective: To invade Ye Tavern, under control by the enemy.  Search for their keg of ale, and destroy it.  This will return control of Ye Tavern to your team.
+
+Protectors Objective: To defend your keg of ale from the attack of the assaulting team.  The keg is located on the upper floor of Ye Tavern.
+
+Scoring: Destroy enemy's keg - 15 points.
+         Defending your keg  - 1 point per 15 seconds.
+
+Supplies: Assaulting team - Supplies are hidden throughout map, mostly along the assault routes.
+          Protecting team - Supplies are located at key defense points.

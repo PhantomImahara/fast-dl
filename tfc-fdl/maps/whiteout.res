@@ -1,0 +1,10 @@
+gfx/env/mistysnowbk.tga
+gfx/env/mistysnowdn.tga
+gfx/env/mistysnowft.tga
+gfx/env/mistysnowlf.tga
+gfx/env/mistysnowrt.tga
+gfx/env/mistysnowup.tga
+maps/whiteout.bsp
+maps/whiteout.txt
+whiteout_readme.txt
+sound/ambience/whiteout.wav
