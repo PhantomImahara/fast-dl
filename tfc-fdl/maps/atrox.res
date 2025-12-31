@@ -1,0 +1,15 @@
+maps/atrox.txt
+maps/atrox_readme.txt
+maps/atrox.res
+gfx/env/fullmoonrt.tga
+gfx/env/fullmoonlf.tga
+gfx/env/fullmoonft.tga
+gfx/env/fullmoonbk.tga
+gfx/env/fullmoonup.tga
+gfx/env/fullmoondn.tga
+gfx/env/fullmoonrt.bmp
+gfx/env/fullmoonlf.bmp
+gfx/env/fullmoonft.bmp
+gfx/env/fullmoonbk.bmp
+gfx/env/fullmoonup.bmp
+gfx/env/fullmoondn.bmp

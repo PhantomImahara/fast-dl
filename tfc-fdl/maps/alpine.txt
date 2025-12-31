@@ -1,0 +1,18 @@
+Alpine - Assault
+
+Objective: Blue must penetrate the
+Red mountain base, retrieve the flag,
+and bring it back to their cave outpost.
+If Blue can find a way to seal off the
+Flag Turret, they will gain easy entree.
+
+Falls from a height can be deadly.
+
+Scoring: 
+25 points if Blue captures.
+10 points per minute that Red keeps
+their flag.
+
+Other Notes: Flag carriers drop the Flag when
+they die. Dropped flags return to their Base
+after 30 seconds.

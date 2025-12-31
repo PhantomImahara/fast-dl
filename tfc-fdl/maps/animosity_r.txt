@@ -1,0 +1,14 @@
+Animosity
+Made by EA|General_Lee and ChEeSy_pOoF!
+
+Description: Similar 2fort type layout
+with 2 forts facing each other with
+a bridge betwen and water. It's a
+little diff. in that it's at night
+instead of day as most maps are and
+after going through base, you exit
+back outside to an outdoors flagroom.
+Also water entrance leading to the
+uper level of the ramp room once
+the water entrance door has been blown
+by detpack.

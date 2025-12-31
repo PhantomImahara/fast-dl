@@ -1,0 +1,23 @@
+Atrox Reportare (Hard-fought Victory)
+True Capture the Flag || by A Boojum Snark
+
+==Make your way to the enemy control center and
+turn off the security. Grab the flag and bring it
+back to where YOUR flag resides to capture.
+Your flag MUST be home to capture, if not, wait
+for it to return.
+
+After a flag is captured everything is reset and
+a new round will begin.
+
+==Scoring per capture:
+10 team points.
+8 points to the capper.
+2 points to everyone else on your team.
+
+==Dropped flags are returned:
+after 50 seconds.
+if it is touched, on the enemy side.
+
+==The flag locater only detects YOUR flag when it 
+is being carried on the ENEMY side.
