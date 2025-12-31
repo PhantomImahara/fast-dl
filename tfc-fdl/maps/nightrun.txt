@@ -1,0 +1,12 @@
+Nightrun - Invade and Defend
+
+Objective: Blue team must take their flag to
+Red team's capture points to win the game. 
+There are two command points on the way.
+
+Scoring: Red team - 5 points per minute
+	          Blue team - 70 points per capture
+
+Other Notes: Blue targets indicate detpack
+points for Blue Demoman. Game ends in 26
+minutes.

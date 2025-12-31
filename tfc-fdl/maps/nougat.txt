@@ -1,0 +1,23 @@
+NOUGAT! - Capture The Flag
+by Jeff Winkworth (JKWSN_superdude)
+
+Objective: Use the walkways to make your way 
+to where their Flag resides. Grab it and 
+bring it back to the ledge above your spawn 
+area.
+
+
+Scoring: 10 points per Capture.
+
+
+Other Notes: 
+
+Flag carriers drop the Flag when they die.
+
+Dropped flags return to their Base
+after 60 seconds.
+
+Don't hit the ground. You will die.
+
+superdude@jkwsn.com
+http://nougat.jkwsn.com
