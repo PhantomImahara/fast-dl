@@ -1,0 +1,58 @@
+===========================================
+============ Sigma TFC MAP ================
+===========================================
+
+Sigma TFC Map is by "Danny ( Zer0-G) Upton"
+
+===========================================
+============= Description =================
+===========================================
+
+    Sigma is a "Capture The Flag Map"
+
+===========================================
+============== Objective ==================
+===========================================
+
+Your Objective it to capture the Enemy Flag
+from the Enemys flagroom and return the
+flag to your Capture Point which is located
+on your battlements. Capturing the Enemy 
+Flag will Give you 10 Team Points and a 
+restock of your grenades. 
+
+===========================================
+=============== Features ==================
+===========================================
+
+            Custom Textures
+           Front Door Access
+            Balcony Access
+             Water Access
+       Fast Water Access To Bases
+             2 Resuplys
+        2 Flag Room Enterances
+
+===========================================
+=========== Misc Infomation ===============
+===========================================
+
+Email - charlie@omegadesignz.co.uk
+
+#uwk on Quakenet or /msg Zer0-G
+
+===========================================
+=============== Credits ===================
+===========================================
+
+I would like to thank ALL the people who 
+Helped me Test out the map "Sigma" Also A 
+BIG thanks To [ UwK ]Royal7 for providing
+The Server were we could test the map. 
+Thanks Mate.
+
+Also a Big thanks to all the people who 
+made links for my map to be downloaded. 
+
+===========================================
+===========================================

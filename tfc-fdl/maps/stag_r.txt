@@ -1,0 +1,23 @@
+Stag for Team Fortress
+
+stag_r.bsp
+
+
+Port by Dragline, with permission of the Q3F Team.
+
+Original QuakeWorld Stag by Leon and aVis.
+
+
+Standard CTF scoring.
+
+Cap the enemy's flag in front of your respawn.
+
+10 points per cap.
+
+60 second returns.
+
+Quad damage available in each flag room.
+
+
+
+dragcity@earthlink.net

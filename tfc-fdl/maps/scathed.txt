@@ -1,0 +1,19 @@
+		      Scathed - TFC CTF map
+			created by ian.de
+
+------------------------------------------------------------
+
+Objective:
+Enter the enemy base and steal their flag, bring it back to your
+Capture Point.
+
+-----------------------------------------------------------
+
+Other Notes:
+Flags return after 60 when dropped.
+10 points are rewarded to the team for a flag capture.
+The player capturing also recieves 10 frags.
+The enemy shoop is activated by a button behind their flag.
+Shoop access is available for 60 seconds.
+
+------------------------------------------------------

@@ -1,0 +1,16 @@
+SandStorm - Domination
+
+Objective: Take the Flags from your 
+Base and put them on the Command 
+Points situated in the map. Use 
+the signs located around the map
+to see who owns each Command Point.
+
+Scoring: 1 point for every 30 seconds
+you hold a Command Point.
+
+Other Notes: 
+*There are 3 Command Points
+*Dropped flags return immediately
+*When a team caps all 3 points, they
+ get 25 extra points

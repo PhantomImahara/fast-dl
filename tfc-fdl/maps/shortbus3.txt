@@ -1,0 +1,25 @@
+The Shortbus 3:
+Frag Race 2002
+by poopfoot
+
+Drive the shortbus through four checkpoints to score!
+You must be in the front of the 'bus - not the roof,
+not in the back - to successfully pass a checkpoint.
+Checkpoints can be passed in any order.  You need 
+not be in direct control of the 'bus in order to 
+pass a checkpoint.
+
+Each checkpoint passed gains 2 frags for the
+player who activates each checkpoint first.
+
+Passing all four checkpoints gives 10 points
+to your team!
+
+Once all checkpoints are passed by a team, there is
+a 15 second reset delay for that team's checkpoints.
+
+As always, try not to get run over by the shortbus.
+
+Justin "poopfoot" Pratt
+pratt@www.cs.ndsu.nodak.edu
+http://www.cs.ndsu.nodak.edu/~pratt/shortbuslabs
