@@ -1,0 +1,18 @@
+The Hunted House
+
+OBJECTIVE:
+The Hunted must survive long enough
+to reach the escape truck alive.
+It is waiting for him in the rear 
+driveway.
+
+Either aid in his escape or
+attempt his murder.
+
+IF THE HUNTED LIVES:
+His team earns 50 points.
+
+IF THE HUNTED DIES:
+The Assassins earn 50 points.
+The Informant earns 25 points.
+

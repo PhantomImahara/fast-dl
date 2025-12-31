@@ -1,0 +1,25 @@
+Horizon - King of the Hill
+by User Err0r (dongollwitzer@gmail.com)
+
+Story:
+Two enemy nations at war in the Middle East
+are fighting for control over a strategically
+placed bunker.
+
+Objective:
+Take your teams data card to the control
+station in the bunker to capture it for your
+team.
+
+Scoring:
+2 frags and 5 points per capture.
+2 point every 15 seconds the bunker is under
+your team's control.
+
+Notes:
+Detonate the enemy computer console for points
+and to make them lose control of the bunker.
+A teleport will open up in your base when your
+team has control of the bunker. There is a 15
+second delay before the teleport reactivates
+after being used.

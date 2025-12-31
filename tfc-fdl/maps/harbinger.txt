@@ -1,0 +1,32 @@
+Harbinger - CaHTF (Capture and Hold The Flag)
+By: AKULA-J- (akula@planetfortress.com)
+
+Objective: Enter the enemy base and make
+your way to where their flag resides in the
+lower flag room. Grab it and bring it 
+back to your cap point in the upper flag room.
+Then defend it for long as possible while at
+the same time keeping control of your own flag.
+
+Scoring:  2 Pts for each flag capture
+              1 Pt for returning a captured flag
+              2 Pts every 20 seconds the enemy flag is CAPed
+              1 Pt every 20 seconds your flag is at home.
+
+Other Notes: Dropped flags return to their base after
+60 seconds. Captured flags can be returned to base by
+touching them. Freshly captured/returned flags cannot
+be returned/stolen for 5 seconds. Signs in each base light
+up to indicate what flags that team has control over.
+Useing flaginfo and these lighted signs will show exactly
+where to go to steal/return the two flags.
+
+IF you're totaly lost ATM just play it like a stock CTF map and 
+keep your eyes and ears open, you'll figure out the rest quickly. 
+
+Refer to "harbinger_txt.txt" for more information.
+
+
+
+(C)2002 Z Factor Productions
+www.planetfortress.com/zfactor

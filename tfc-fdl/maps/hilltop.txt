@@ -1,0 +1,15 @@
+
+Hilltop
+
+Author: Light's Bane
+Style: KING OF THE HILL
+Scoring: 
+-1pt for cap
+-1pt first 10 sec
+-1pt every 20 after
+
+Notes:
+-Detpacked bridges auto-repair
+ after 1 min.
+-Some crates can be pushed.
+-Watch out for flag security.

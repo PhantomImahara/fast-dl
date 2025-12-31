@@ -1,0 +1,13 @@
+hellion - Capture The Flag
+
+Objectives: 
+Get the enemey flag, return it to your base.
+Defend your flag. 
+
+Other Notes:
+The security will go down for 60 seconds when button is pressed.
+
+Scoring: 10 points per Capture.
+
+Mapping by: =High= ULIBOH
+
