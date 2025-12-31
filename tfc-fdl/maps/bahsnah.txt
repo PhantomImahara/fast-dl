@@ -1,0 +1,29 @@
+bahsnah - Territorial Control & CTF
+
+Created By:  Trepid Mapping
+                 trepid.net
+
+Objectives:
+ - Take control of up to 3 Command Points with idols from your respawn
+ - Hold these command points to recieve points every 30, 60, or 90 seconds
+ - Capture enemy gold on any of the Command Points that are under your team's control
+
+Scoring Information:
+ - 1 point for taking over Command Point near your base (CP1 or CP3)
+ - 3 points for taking over Command Point between bases (CP2)
+ - 5 points for taking over Command Point near enemy base (CP1 or CP3)
+
+ - 1 point every 90 seconds for holding Command Point near your base (CP1 or CP3)
+ - 3 points every 60 seconds for holding Command Point between bases (CP2)
+ - 5 points every 30 seconds for holding Command Point near enemy base (CP1 or CP3)
+
+ - 1 point for capturing enemy gold on Command Point near enemy base (CP1 or CP3)
+ - 3 points for capturing enemy gold on Command Point in middle (CP2)
+ - 5 points for capturing enemy gold on Command Point near your base (CP1 or CP3)
+
+Other Info:
+ - All idols and gold return instantly
+ - You cannot carry an idol and enemy gold simultaneously
+ - Det-walls cannot be re-detted
+ - Grenade pack gives detpack
+ - developer 1, in the console, will allow you to read console messages easier

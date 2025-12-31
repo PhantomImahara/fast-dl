@@ -1,0 +1,15 @@
+Boom Arena v2 by Krypt-Tonix
+
+Objective: Take the soccerball located
+in the center of the map and carry it
+to the enemies base.  Either cap it on the 
+platform or leave a detpack in the 
+computer room for team points.
+
+Scoring: 10 points per capture.
+	5 ponts per computer det.
+
+Other Notes: Command Center Displays 
+show who has the ball and where it is.
+
+(c) 2000 Krypt-Tonix

@@ -1,0 +1,18 @@
+The Blood Tube - Capture The Flag
+
+Objective: Enter the enemy Base and make
+your way to the back of the lower level 
+where their flag resides. Grab it and bring 
+it back to the capture point on your roof. 
+
+Place it on the raised square to capture it. 
+
+Scoring: 10 points per Capture. 10 frags to
+the player who captures it.
+
+Other Notes: Flag carriers drop the Flag when
+they die. Dropped flags return to their Base
+after 60 seconds.
+
+Map by erikNYC (eriknyc@mail.bway.net)
+Have fun!!
