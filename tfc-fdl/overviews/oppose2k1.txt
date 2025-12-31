@@ -1,0 +1,14 @@
+// overview description file for oppose2k1.bsp
+
+global 
+{
+	ZOOM	1.11
+	ORIGIN	0	0	-640
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/oppose2k1.tga"
+	HEIGHT	-640
+}

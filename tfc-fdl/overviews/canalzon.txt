@@ -1,0 +1,14 @@
+// overview description file for canalzon.bsp
+
+global 
+{
+	ZOOM	1.38
+	ORIGIN	824	1728	-640
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/canalzon.tga"
+	HEIGHT	-640
+}

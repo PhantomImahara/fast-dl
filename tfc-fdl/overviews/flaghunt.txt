@@ -1,0 +1,12 @@
+global
+{
+ZOOM	1.03
+ORIGIN	-288 128 -385
+ROTATED	0
+}
+
+layer
+{
+IMAGE	"overviews/flaghunt.tga"
+HEIGHT	-385
+}

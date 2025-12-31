@@ -1,0 +1,12 @@
+global
+{
+ZOOM	1.38
+ORIGIN	-416 176 -769
+ROTATED	1
+}
+
+layer
+{
+IMAGE	"overviews/ceasefire.tga"
+HEIGHT	-769
+}

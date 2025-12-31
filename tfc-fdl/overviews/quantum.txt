@@ -1,0 +1,14 @@
+// overview description file for quantum.bsp
+
+global 
+{
+	ZOOM	1.02
+	ORIGIN	-512	-0	-1025
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/quantum.bmp"
+	HEIGHT	-1025
+}

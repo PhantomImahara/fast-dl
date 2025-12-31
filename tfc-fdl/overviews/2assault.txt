@@ -1,0 +1,12 @@
+global
+{
+ZOOM	1.49
+ORIGIN	440 -696 -449
+ROTATED	0
+}
+
+layer
+{
+IMAGE	"overviews/2assault.tga"
+HEIGHT	-449
+}

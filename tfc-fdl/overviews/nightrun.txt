@@ -1,0 +1,14 @@
+// overview description file for nightrun.bsp
+
+global
+{
+ZOOM 1.04
+ORIGIN 145 400 0
+ROTATED 0
+}
+
+layer
+{
+IMAGE "overviews/nightrun.tga"
+HEIGHT -1237.00
+}

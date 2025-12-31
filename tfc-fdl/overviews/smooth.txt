@@ -1,0 +1,14 @@
+// overview description file for smooth.bsp
+
+global 
+{
+	ZOOM	1.05
+	ORIGIN	0 	0	-896
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/smooth.bmp"
+	HEIGHT	-896
+}

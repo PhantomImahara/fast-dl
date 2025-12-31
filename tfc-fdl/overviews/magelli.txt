@@ -1,0 +1,14 @@
+// overview description file for Magelli.bsp
+
+global 
+{
+	ZOOM	0.97
+	ORIGIN	583.50	639.50	144
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/magelli.bmp"
+	HEIGHT	-705
+}

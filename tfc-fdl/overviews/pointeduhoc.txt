@@ -1,0 +1,17 @@
+// overview description file for pointeduhoc.bsp
+
+global 
+{
+	ZOOM	.76
+	ORIGIN	0	0	0
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/pointeduhoc.tga"
+	HEIGHT	4033
+}
+
+
+

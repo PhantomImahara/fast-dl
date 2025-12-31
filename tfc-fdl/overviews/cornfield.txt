@@ -1,0 +1,12 @@
+global
+{
+ZOOM	1.02
+ORIGIN	872 -952 -337
+ROTATED	1
+}
+
+layer
+{
+IMAGE	"overviews/cornfield.tga"
+HEIGHT	-337
+}

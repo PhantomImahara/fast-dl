@@ -1,0 +1,14 @@
+// overview description file for overload.bsp
+
+global 
+{
+	ZOOM	1.12
+	ORIGIN	0 	-64.78	-228
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/overload.tga"
+	HEIGHT	-1672
+}

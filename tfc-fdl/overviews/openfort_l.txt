@@ -1,0 +1,14 @@
+// overview description file for openfort_l.bsp
+
+global 
+{
+	ZOOM	1.19
+	ORIGIN	-192 	-608	-633
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/openfort_l.bmp"
+	HEIGHT	-633
+}

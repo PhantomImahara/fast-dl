@@ -1,0 +1,14 @@
+// overview description file for respite.bsp
+
+global 
+{
+	ZOOM	0.86
+	ORIGIN	 -296.50	0.00	-3302.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/respite.bmp"
+	HEIGHT	-3769.00
+}

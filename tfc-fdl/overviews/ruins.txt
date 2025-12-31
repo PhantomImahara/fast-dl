@@ -1,0 +1,14 @@
+// overview description file for rock2.bsp
+
+global 
+{
+	ZOOM	1.10
+	ORIGIN	-16 	763.28	32
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/ruins.bmp"
+	HEIGHT	-448
+}

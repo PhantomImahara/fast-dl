@@ -1,0 +1,14 @@
+// overview description file for bahsnah.bsp
+
+global 
+{
+	ZOOM	1.07
+	ORIGIN	0 	0	-321
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/bahsnah.bmp"
+	HEIGHT	-321
+}

@@ -1,0 +1,14 @@
+// overview description file for troy_beta10.bsp
+
+global 
+{
+	ZOOM	0.94
+	ORIGIN	72.00 	-328	128
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/troy_beta10.bmp"
+	HEIGHT	-673.00
+}

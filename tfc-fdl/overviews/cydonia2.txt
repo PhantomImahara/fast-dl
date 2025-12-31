@@ -1,0 +1,14 @@
+// overview description file for cydonia2.bsp
+
+global 
+{
+	ZOOM	1.08
+	ORIGIN	0	0	-1152
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/cydonia2.tga"
+	HEIGHT	-1152
+}

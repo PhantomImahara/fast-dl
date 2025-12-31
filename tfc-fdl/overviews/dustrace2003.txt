@@ -1,0 +1,12 @@
+global
+{
+ZOOM	0.8
+ORIGIN	-80 -32 -1057
+ROTATED	0
+}
+
+layer
+{
+IMAGE	"overviews/dustrace2003.tga"
+HEIGHT	-1057
+}

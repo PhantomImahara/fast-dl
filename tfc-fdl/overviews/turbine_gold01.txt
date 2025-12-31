@@ -1,0 +1,14 @@
+// overview description file for turbine.bsp
+
+global 
+{
+	ZOOM	1.45
+	ORIGIN	0 	0	112
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/turbine.bmp"
+	HEIGHT	-65
+}

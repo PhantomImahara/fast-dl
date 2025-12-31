@@ -1,0 +1,12 @@
+global
+{
+ZOOM	1.10
+ORIGIN	0 192 -1009
+ROTATED	1
+}
+
+layer
+{
+IMAGE	"overviews/2base.tga"
+HEIGHT	-1009
+}

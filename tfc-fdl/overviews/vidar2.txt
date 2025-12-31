@@ -1,0 +1,14 @@
+// overview description file for vidar2.bsp
+
+global 
+{
+	ZOOM	0.87
+	ORIGIN	-96	-120	-28
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/vidar2.tga"
+	HEIGHT	-28
+}

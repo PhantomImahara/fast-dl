@@ -1,0 +1,12 @@
+global
+{
+ZOOM	2.42
+ORIGIN	1536 96 -273
+ROTATED	1
+}
+
+layer
+{
+IMAGE	"overviews/toxicity.tga"
+HEIGHT	-273
+}
