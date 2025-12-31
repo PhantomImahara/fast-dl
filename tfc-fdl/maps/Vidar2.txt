@@ -1,0 +1,39 @@
+CNET Gamecenter.com presents:
+
+VIDAR'S NIFLHEIM 2 - Capture The Flag
+By: Neil Manke
+
+Vidar - Norse God of Vengence
+Niflheim - Region of Ice and Cold
+
+Objective: Enter the enemy Fortress and make 
+your way to where their Flag resides in the 
+Tower. Grab it and bring it back to the base 
+of your Tower. Place it on the raised square 
+to Capture it. The flag will then return to 
+the enemy Base.
+
+Scoring: 10 points per Capture.
+
+Notes: 
+-Flag carriers drop the Flag when they die. 
+Dropped Flags return to their Base after 65 
+seconds.
+-The ice tunnel under the glacier requires a 
+detpack to clear. Another detpack explosion 
+can re-seal it.
+
+For Distribution by CNET ONLY!
+
+Vidar2 By: Neil Manke
+Black Widow Games
+http://www.planethalflife.com/manke/
+
+Thanks To: Lurker's Lair, Top Ten Tournament,
+and the [TiC] & [WTF?] Clans
+
+Vidar2 is a remake of Vidar's Niflheim. 
+Please feel free to email me at 
+<nmanke@telus.net> with any comments or 
+suggestions. Thank you!
+

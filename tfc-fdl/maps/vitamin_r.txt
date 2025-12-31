@@ -1,0 +1,26 @@
+Vitamin Revised Edition - Capture The Flag
+Map By Auto
+
+Map Description	: 
+standard ctf map.
+
+Scoring	: 
+10 team points per cap.
+10 points to the capper.
+
+Other Notes :
+Flag carriers drop the Flag when they die.
+Dropped flags return to their Base after 
+60 seconds.
+
+Revised :
+- less ammo in bags around fr to prevent 
+full fr def.
+- a few texture change.
+- some pilars removed in fr to make it 
+more open, sg can lock easily.
+- water level in fr higher (you can get 
+out of water everywhere).
+
+mail: defsquad@free.fr
+website: http://defsquad.free.fr

@@ -1,0 +1,21 @@
+Villa - True Territorial Control
+
+Objective: Bring your team's flag to one
+of the five command points and defend the
+command point.
+
+Scoring: One point for every thirty seconds
+your team holds a command point.
+
+Other Notes: Flag carriers walk at half-speed. 
+There IS NO bonus for securing all five command 
+points and the command points ARE NOT reset upon 
+a team securing all five command points. Team 
+control centers cannot be destroyed.
+
+
+
+
+
+Author: Dave "Chemical Burn" Vanderburg 
+	- chemicalburn@nofx.com, ICQ #53510429

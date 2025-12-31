@@ -1,0 +1,28 @@
+Velocity - Capture The Flag
+
+Objective: Enter the enemy Base and make
+your way to where their Flag resides in the
+Rear of the base. Grab it and bring it back to your
+Main Room. Place it on the raised square to
+Capture it. 
+
+Scoring: 10 points per Capture.
+
+Other Notes: Flag carriers drop the Flag when
+they die. Dropped flags return to their Base
+after 60 seconds.
+
+The enemy grate can be detpacked for easy access 
+to the main room.
+
+If The flag happens to fall into the pit, the 
+flag will attempt to return to the place it was 
+thrown from, or the last place the player was thats 
+safe.  It it fails at its attempts after 3 times, 
+the flag  will return.  So, if the flag
+falls into the pit, you will be able to find it
+back at then enemy flag room, or around the pit.
+
+------------------------------
+
+-Peregrine

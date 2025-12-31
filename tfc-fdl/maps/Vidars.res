@@ -1,0 +1,12 @@
+gfx/env/mntnbk.tga
+gfx/env/mntndn.tga
+gfx/env/mntnft.tga
+gfx/env/mntnlf.tga
+gfx/env/mntnrt.tga
+gfx/env/mntnup.tga
+maps/vidars.bsp
+maps/vidars.res
+maps/vidars.txt
+maps/vidars_readme.txt
+sound/nm_tfc/nm_waves.wav
+sound/nm_tfc/nm_wind.wav
