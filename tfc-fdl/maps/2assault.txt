@@ -1,0 +1,12 @@
+            2 Assault
+
+Objective:
+Assault the base and press the button,
+which belongs to your team.
+
+For defending the base your team will
+recieve 1 point every 10 seconds.
+
+by Nicemice - nicemice@bigsession.de
+
+(c) 2000 Richard Schmidt

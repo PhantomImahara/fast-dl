@@ -1,0 +1,194 @@
+---------------------------------
+Two Bases --- Team Fortress Clasic
+---------------------------------
+
+Recommended teams: 	6+ on each team but seing as how popular TFC is you probably end up playing with max players, I can never find a server to play!
+Spawn Points: 		10 for each team.
+Recommended Classes:	Engineer - must be at least one on your team.
+			Sniper - good clear shots
+			Demo-man - loads of places to pipebomb.
+
+
+
+Description:	Two forts, Red and Blue, stand opposed seperated only by a narrow strip of land.  Each fort contains a banner which the two opposing teams fly in defiance of each other. Obviously the teams don't wont to lose these for the shame of it so they have enable several countermeasures to protect their bases.  The vault room is protected by powerful lasers which can only be disabled by an engineer at control panels quite far away.  Once the lasers are deactivated the team only has twenty seconds to catch the flag and escape through the large one way vault door.  Then they have to pass through the spawning rooms and straight up the central pathway through the base.  If they suceed they will be on their way out.  They still have to watch out for snipers outside.  Once they return to their base they simply have to bring the flag to the capture point by the spawn rooms.
+
+Objective Sumary:
+Enter opositions base by overiding door panel below door.
+Deactivate Laser beam with engineer.
+Grab Flag and Escape to your own base.
+Drop it off at the capture point.
+
+Hints and Ideas
+---------------
+
+Pipebomb the exit to the vault, then when you hear that the flag is captured quickly detonate the bombs shortly after (give them a second to run out the door)
+Alternatively Build a sentry gun by the exit door.  You have easy access to ammo and thus cells to upgrade it to level 3 quickly.
+Snipers at the top of the ramp are also quite effective as they have a clean shot and several seconds to take it (for LPBs only)
+A sentry gun at the bottom of the ramps in front of the base can be effective but more often or not will be grenaded.  Pipebombs will do the trick here or at the actual door.  When you see the door open simply detonate them.
+As a sniper stand in the slime with your gun ready to fire.  When you see the beams deactivated duck down under the slime and wait for the enemy runner to jump in to get to the vault.  You have a simple shot most times and they won't see you till you stand up.
+
+Designers Notes
+---------------
+
+This is the first Half-Life map I am releasing, not the first one done however as I have already done four HL maps, one or two Quake II maps, hundreds of Quake maps, hundreds of Doom maps and maybe four or so Team Fortress 1.8 maps.  The advantage of making TFC maps are that TFC maps don't usaually have as much detail but I think this may be changing.  My advice on making maps is simple, don't do any detail until you have done everyone room and corridor with the textures applied on them.  You then have a big level with no furniture, weapons, lights etc and you can get a feel for the level.  It saves greatly on compile times on keeping it simple at first and then you can add much of the detail in one go without fear of errors. I have a golden rule as well after making this map which is very helpful:
+
+The Golden Rule:	Never put any { textures (e.g. rails, ladders etc.) or have the sky 			give of light until you are well through the level.  These increase 			the compile time dramatically (I added one grate and that increased 			compile time eight fold from about 20 secs to 160 secs).  You'll get 			things done quicker and you won't be messing with making entities 			etc.
+
+The next map I will do will probably be for Four teams because there ain't many of this type of map out for TFC yet (there aren't many maps full stop though).  It would be nice to have three or four teams of 6 to 8 players battling it out and I can't wait to do it.  Any sugestions on themes or goals are welcome, I may base it on my tower idea, four big towers etc.  Any comments?
+
+One thing I wanted to encourage was for engineers to be on the attack for once so I made it nesecarry to have one along to capture the flag!  you can jump through the beams sometimes with out dying but you are hurt loads!!!!
+The good think is with engineers needed, those annoying scouts (who I regullarly play as) can't run off at the start of the level.
+
+
+Statistics:
+
+How many days was this map done over?		3
+How long did it take to full compile?		584 secs - PII300 w. 64mb ram
+How many compile errors did you get?		1
+How many errors in the level where there?	1
+How many bugs are there?			One, a missaligned texture, so annoying!
+How many times did you use trig?		2
+
+
+Well I hope you found this document useful.
+
+Karle Kane (Metorical)
+ICQ # 9517179 - no stupid stuff
+Karle@wildfire.demon.co.uk (my nickname used to be wildfire)
+
+www.wildfire.demon.co.uk
+www.halflife.net/dark - coming soon!
+
+P.S. If you need to join a TF Clan mail me!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cheats in the Map
+-----------------
+Please Read on....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+And on...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+And on....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Okay seeing as you did what I said.  Simple really.  In the slime is a secret corridor but its not easy to get to.  It only opens during a bio-hazard attack and while it hapens at both bases at the same time (or within 20 secs basically).  Down that corridor is a control room which you can use to trigger all kind of things from air raids and nuke attacks.  don't try this while I playing because I have more tricks up my sleeve to catch you out 8) l8r!
