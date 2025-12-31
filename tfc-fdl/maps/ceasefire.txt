@@ -1,0 +1,16 @@
+CEASEFIRE
+
+Created by Gustavo
+
+http://www.planethalflife.com/gustavo
+
+Objective: enter the enemy base, deactivate the laser security system,
+and make your way to where their flag resides. Grab the flag, bring it
+back to your base, and place it on the raised square to score 10 points.
+Stop the enemy team from capturing your flag.
+
+Scoring: 10 points per capture.
+
+Warning: if you attempt to enter either of your respawn areas whilst you
+are carrying the enemy flag, it will be removed & returned to its
+original position behind the enemy laser security.

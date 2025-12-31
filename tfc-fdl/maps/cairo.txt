@@ -1,0 +1,44 @@
+=================================
+============= Cairo =============
+=================================
+
+-----------------------------------------------------------------------
+Author		: deacon<WOS> 
+Map Title	: cairo.bsp
+Build Time	: about two weeks
+Finish Date	: 9-26-02
+Build Tools	: Valve Hammer Editor, Wally, Zoner's Halflife Tools, notepad
+Compile Time	: (2414.11 seconds) [40.236 minutes] 
+Compile Machine : AMD Thunderbird 1.2Ghz, 512MB DDR
+Email		: deaconstomb@hotmail.com
+website		: http://www.deaconstomb.info
+-----------------------------------------------------------------------
+Thanks to....
+-----------------------------------------------------------------------
+-Clan WOS, <Well of Souls gaming clan> for support and getting
+me into this stuff in the first place.  
+-Nehebkau, Phlem, Anubis, Exterm, Deadman for the textures in the WOS wad file.
+-Rosco for the name.
+-The whole WOS bunch for listening to my constant jabbering.
+-----------------------------------------------------------------------
+CREDITS:
+-----------------------------------------------------------------------
+WOS.wad
+Title 		: WOS wad file with WOS member build graphics
+Filename 	: wos.wad
+Authors 	: Nehebkau, Phlem, Anubis, Exterm, Deadman. (please email me if I left out your name)
+Email Address 	: clanwos@hotmail.com
+Website 	: http://www.clanwos.org
+-----------------------------------------------------------------------
+Jump-pod prefabs:
+Filename 	: Amtimass.map
+Author 		: Razor
+Email Address 	: Razor@claramail.com
+-----------------------------------------------------------------------
+Title: Frag-pipe
+File(s)		: Fragpipe.rmf, Fragpipe.map
+Author		: Brian J. Audette AKA. Lord Dakushna
+Email Address	: Dakushna@aol.com
+Web Site	: www.planethalflife.com/radiation/
+Description	: Half-Life Prefab
+-----------------------------------------------------------------------

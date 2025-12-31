@@ -1,0 +1,12 @@
+Canalzone - Territorial Control	
+
+Objective: Carry the flags from your base to
+the various Command Points throughout the
+map. Det the enemy command center to clear
+their flags.
+
+Scoring: 1 Point for every 30 seconds you
+hold a Command Point, 25 points for an all-
+cap.
+
+Other Notes: Flag carriers move at 1/2 speed.
